@@ -1,0 +1,6337 @@
+[
+  {
+    "COUNTRY": "ALB",
+    "YEAR": 1988,
+    "VALUE": 10327
+  },
+  {
+    "COUNTRY": "ALB",
+    "YEAR": 1989,
+    "VALUE": 11449
+  },
+  {
+    "COUNTRY": "ALB",
+    "YEAR": 1990,
+    "VALUE": 11333
+  },
+  {
+    "COUNTRY": "ALB",
+    "YEAR": 1991,
+    "VALUE": 11110
+  },
+  {
+    "COUNTRY": "ALB",
+    "YEAR": 1992,
+    "VALUE": 10875
+  },
+  {
+    "COUNTRY": "ALB",
+    "YEAR": 1993,
+    "VALUE": 10587
+  },
+  {
+    "COUNTRY": "ALB",
+    "YEAR": 1994,
+    "VALUE": 8324
+  },
+  {
+    "COUNTRY": "ALB",
+    "YEAR": 1995,
+    "VALUE": 9394
+  },
+  {
+    "COUNTRY": "ALB",
+    "YEAR": 1996,
+    "VALUE": 9342
+  },
+  {
+    "COUNTRY": "ALB",
+    "YEAR": 1997,
+    "VALUE": 9195
+  },
+  {
+    "COUNTRY": "ALB",
+    "YEAR": 1998,
+    "VALUE": 9327
+  },
+  {
+    "COUNTRY": "ALB",
+    "YEAR": 1999,
+    "VALUE": 9288
+  },
+  {
+    "COUNTRY": "ALB",
+    "YEAR": 2000,
+    "VALUE": 9146
+  },
+  {
+    "COUNTRY": "ALB",
+    "YEAR": 2001,
+    "VALUE": 9081
+  },
+  {
+    "COUNTRY": "ALB",
+    "YEAR": 2002,
+    "VALUE": 8777
+  },
+  {
+    "COUNTRY": "ALB",
+    "YEAR": 2003,
+    "VALUE": 8563
+  },
+  {
+    "COUNTRY": "ALB",
+    "YEAR": 2004,
+    "VALUE": 8490
+  },
+  {
+    "COUNTRY": "ALB",
+    "YEAR": 2005,
+    "VALUE": 8267
+  },
+  {
+    "COUNTRY": "ALB",
+    "YEAR": 2006,
+    "VALUE": 8173
+  },
+  {
+    "COUNTRY": "ALB",
+    "YEAR": 2007,
+    "VALUE": 8058
+  },
+  {
+    "COUNTRY": "ALB",
+    "YEAR": 2009,
+    "VALUE": 7836
+  },
+  {
+    "COUNTRY": "ALB",
+    "YEAR": 2010,
+    "VALUE": 8016
+  },
+  {
+    "COUNTRY": "ALB",
+    "YEAR": 2011,
+    "VALUE": 7682
+  },
+  {
+    "COUNTRY": "ALB",
+    "YEAR": 2012,
+    "VALUE": 7621
+  },
+  {
+    "COUNTRY": "ALB",
+    "YEAR": 2013,
+    "VALUE": 7621
+  },
+  {
+    "COUNTRY": "AND",
+    "YEAR": 1996,
+    "VALUE": 154
+  },
+  {
+    "COUNTRY": "AND",
+    "YEAR": 1997,
+    "VALUE": 145
+  },
+  {
+    "COUNTRY": "AND",
+    "YEAR": 1998,
+    "VALUE": 153
+  },
+  {
+    "COUNTRY": "AND",
+    "YEAR": 1999,
+    "VALUE": 161
+  },
+  {
+    "COUNTRY": "AND",
+    "YEAR": 2000,
+    "VALUE": 161
+  },
+  {
+    "COUNTRY": "AND",
+    "YEAR": 2001,
+    "VALUE": 168
+  },
+  {
+    "COUNTRY": "AND",
+    "YEAR": 2002,
+    "VALUE": 189
+  },
+  {
+    "COUNTRY": "AND",
+    "YEAR": 2003,
+    "VALUE": 177
+  },
+  {
+    "COUNTRY": "AND",
+    "YEAR": 2004,
+    "VALUE": 156
+  },
+  {
+    "COUNTRY": "AND",
+    "YEAR": 2005,
+    "VALUE": 156
+  },
+  {
+    "COUNTRY": "AND",
+    "YEAR": 2006,
+    "VALUE": 156
+  },
+  {
+    "COUNTRY": "AND",
+    "YEAR": 2007,
+    "VALUE": 160
+  },
+  {
+    "COUNTRY": "AND",
+    "YEAR": 2009,
+    "VALUE": 160
+  },
+  {
+    "COUNTRY": "ARM",
+    "YEAR": 1980,
+    "VALUE": 22265
+  },
+  {
+    "COUNTRY": "ARM",
+    "YEAR": 1981,
+    "VALUE": 22845
+  },
+  {
+    "COUNTRY": "ARM",
+    "YEAR": 1982,
+    "VALUE": 23450
+  },
+  {
+    "COUNTRY": "ARM",
+    "YEAR": 1983,
+    "VALUE": 23600
+  },
+  {
+    "COUNTRY": "ARM",
+    "YEAR": 1984,
+    "VALUE": 24010
+  },
+  {
+    "COUNTRY": "ARM",
+    "YEAR": 1985,
+    "VALUE": 24892
+  },
+  {
+    "COUNTRY": "ARM",
+    "YEAR": 1986,
+    "VALUE": 25075
+  },
+  {
+    "COUNTRY": "ARM",
+    "YEAR": 1987,
+    "VALUE": 26485
+  },
+  {
+    "COUNTRY": "ARM",
+    "YEAR": 1988,
+    "VALUE": 27559
+  },
+  {
+    "COUNTRY": "ARM",
+    "YEAR": 1989,
+    "VALUE": 27094
+  },
+  {
+    "COUNTRY": "ARM",
+    "YEAR": 1990,
+    "VALUE": 27662
+  },
+  {
+    "COUNTRY": "ARM",
+    "YEAR": 1991,
+    "VALUE": 27886
+  },
+  {
+    "COUNTRY": "ARM",
+    "YEAR": 1992,
+    "VALUE": 27900
+  },
+  {
+    "COUNTRY": "ARM",
+    "YEAR": 1993,
+    "VALUE": 27631
+  },
+  {
+    "COUNTRY": "ARM",
+    "YEAR": 1994,
+    "VALUE": 26433
+  },
+  {
+    "COUNTRY": "ARM",
+    "YEAR": 1995,
+    "VALUE": 26011
+  },
+  {
+    "COUNTRY": "ARM",
+    "YEAR": 1996,
+    "VALUE": 24518
+  },
+  {
+    "COUNTRY": "ARM",
+    "YEAR": 1997,
+    "VALUE": 23058
+  },
+  {
+    "COUNTRY": "ARM",
+    "YEAR": 1998,
+    "VALUE": 22729
+  },
+  {
+    "COUNTRY": "ARM",
+    "YEAR": 1999,
+    "VALUE": 21028
+  },
+  {
+    "COUNTRY": "ARM",
+    "YEAR": 2000,
+    "VALUE": 18549
+  },
+  {
+    "COUNTRY": "ARM",
+    "YEAR": 2001,
+    "VALUE": 14162
+  },
+  {
+    "COUNTRY": "ARM",
+    "YEAR": 2002,
+    "VALUE": 12148
+  },
+  {
+    "COUNTRY": "ARM",
+    "YEAR": 2003,
+    "VALUE": 12393
+  },
+  {
+    "COUNTRY": "ARM",
+    "YEAR": 2004,
+    "VALUE": 12474
+  },
+  {
+    "COUNTRY": "ARM",
+    "YEAR": 2005,
+    "VALUE": 12150
+  },
+  {
+    "COUNTRY": "ARM",
+    "YEAR": 2006,
+    "VALUE": 11928
+  },
+  {
+    "COUNTRY": "ARM",
+    "YEAR": 2007,
+    "VALUE": 10793
+  },
+  {
+    "COUNTRY": "ARM",
+    "YEAR": 2008,
+    "VALUE": 10047
+  },
+  {
+    "COUNTRY": "ARM",
+    "YEAR": 2009,
+    "VALUE": 9747
+  },
+  {
+    "COUNTRY": "ARM",
+    "YEAR": 2010,
+    "VALUE": 9854
+  },
+  {
+    "COUNTRY": "ARM",
+    "YEAR": 2011,
+    "VALUE": 9975
+  },
+  {
+    "COUNTRY": "ARM",
+    "YEAR": 2012,
+    "VALUE": 9980
+  },
+  {
+    "COUNTRY": "ARM",
+    "YEAR": 2013,
+    "VALUE": 9967
+  },
+  {
+    "COUNTRY": "ARM",
+    "YEAR": 2014,
+    "VALUE": 10253
+  },
+  {
+    "COUNTRY": "AUT",
+    "YEAR": 1988,
+    "VALUE": 63987
+  },
+  {
+    "COUNTRY": "AUT",
+    "YEAR": 1989,
+    "VALUE": 63098
+  },
+  {
+    "COUNTRY": "AUT",
+    "YEAR": 1990,
+    "VALUE": 62174
+  },
+  {
+    "COUNTRY": "AUT",
+    "YEAR": 1991,
+    "VALUE": 61043
+  },
+  {
+    "COUNTRY": "AUT",
+    "YEAR": 1992,
+    "VALUE": 60087
+  },
+  {
+    "COUNTRY": "AUT",
+    "YEAR": 1993,
+    "VALUE": 59533
+  },
+  {
+    "COUNTRY": "AUT",
+    "YEAR": 1994,
+    "VALUE": 59514
+  },
+  {
+    "COUNTRY": "AUT",
+    "YEAR": 1995,
+    "VALUE": 58921
+  },
+  {
+    "COUNTRY": "AUT",
+    "YEAR": 1996,
+    "VALUE": 58061
+  },
+  {
+    "COUNTRY": "AUT",
+    "YEAR": 1997,
+    "VALUE": 57485
+  },
+  {
+    "COUNTRY": "AUT",
+    "YEAR": 1998,
+    "VALUE": 56423
+  },
+  {
+    "COUNTRY": "AUT",
+    "YEAR": 1999,
+    "VALUE": 55516
+  },
+  {
+    "COUNTRY": "AUT",
+    "YEAR": 2000,
+    "VALUE": 54869
+  },
+  {
+    "COUNTRY": "AUT",
+    "YEAR": 2001,
+    "VALUE": 54305
+  },
+  {
+    "COUNTRY": "AUT",
+    "YEAR": 2002,
+    "VALUE": 53881
+  },
+  {
+    "COUNTRY": "AUT",
+    "YEAR": 2003,
+    "VALUE": 53247
+  },
+  {
+    "COUNTRY": "AUT",
+    "YEAR": 2004,
+    "VALUE": 53035
+  },
+  {
+    "COUNTRY": "AUT",
+    "YEAR": 2005,
+    "VALUE": 52870
+  },
+  {
+    "COUNTRY": "AUT",
+    "YEAR": 2006,
+    "VALUE": 52679
+  },
+  {
+    "COUNTRY": "AUT",
+    "YEAR": 2007,
+    "VALUE": 52922
+  },
+  {
+    "COUNTRY": "AUT",
+    "YEAR": 2008,
+    "VALUE": 52364
+  },
+  {
+    "COUNTRY": "AUT",
+    "YEAR": 2009,
+    "VALUE": 51967
+  },
+  {
+    "COUNTRY": "AUT",
+    "YEAR": 2010,
+    "VALUE": 51504
+  },
+  {
+    "COUNTRY": "AUT",
+    "YEAR": 2011,
+    "VALUE": 51189
+  },
+  {
+    "COUNTRY": "AUT",
+    "YEAR": 2012,
+    "VALUE": 50541
+  },
+  {
+    "COUNTRY": "AUT",
+    "YEAR": 2013,
+    "VALUE": 49792
+  },
+  {
+    "COUNTRY": "AUT",
+    "YEAR": 2014,
+    "VALUE": 49395
+  },
+  {
+    "COUNTRY": "AZE",
+    "YEAR": 1990,
+    "VALUE": 51458
+  },
+  {
+    "COUNTRY": "AZE",
+    "YEAR": 1991,
+    "VALUE": 54872
+  },
+  {
+    "COUNTRY": "AZE",
+    "YEAR": 1992,
+    "VALUE": 57161
+  },
+  {
+    "COUNTRY": "AZE",
+    "YEAR": 1993,
+    "VALUE": 57271
+  },
+  {
+    "COUNTRY": "AZE",
+    "YEAR": 1994,
+    "VALUE": 55541
+  },
+  {
+    "COUNTRY": "AZE",
+    "YEAR": 1995,
+    "VALUE": 55899
+  },
+  {
+    "COUNTRY": "AZE",
+    "YEAR": 1996,
+    "VALUE": 55301
+  },
+  {
+    "COUNTRY": "AZE",
+    "YEAR": 1997,
+    "VALUE": 54389
+  },
+  {
+    "COUNTRY": "AZE",
+    "YEAR": 1998,
+    "VALUE": 55772
+  },
+  {
+    "COUNTRY": "AZE",
+    "YEAR": 1999,
+    "VALUE": 55478
+  },
+  {
+    "COUNTRY": "AZE",
+    "YEAR": 2000,
+    "VALUE": 54855
+  },
+  {
+    "COUNTRY": "AZE",
+    "YEAR": 2001,
+    "VALUE": 54590
+  },
+  {
+    "COUNTRY": "AZE",
+    "YEAR": 2002,
+    "VALUE": 54353
+  },
+  {
+    "COUNTRY": "AZE",
+    "YEAR": 2003,
+    "VALUE": 53961
+  },
+  {
+    "COUNTRY": "AZE",
+    "YEAR": 2004,
+    "VALUE": 53948
+  },
+  {
+    "COUNTRY": "AZE",
+    "YEAR": 2005,
+    "VALUE": 54581
+  },
+  {
+    "COUNTRY": "AZE",
+    "YEAR": 2006,
+    "VALUE": 53928
+  },
+  {
+    "COUNTRY": "AZE",
+    "YEAR": 2007,
+    "VALUE": 53866
+  },
+  {
+    "COUNTRY": "AZE",
+    "YEAR": 2008,
+    "VALUE": 53638
+  },
+  {
+    "COUNTRY": "AZE",
+    "YEAR": 2009,
+    "VALUE": 53318
+  },
+  {
+    "COUNTRY": "AZE",
+    "YEAR": 2010,
+    "VALUE": 34676
+  },
+  {
+    "COUNTRY": "AZE",
+    "YEAR": 2011,
+    "VALUE": 31568
+  },
+  {
+    "COUNTRY": "AZE",
+    "YEAR": 2012,
+    "VALUE": 32454
+  },
+  {
+    "COUNTRY": "AZE",
+    "YEAR": 2013,
+    "VALUE": 32948
+  },
+  {
+    "COUNTRY": "AZE",
+    "YEAR": 2014,
+    "VALUE": 34107
+  },
+  {
+    "COUNTRY": "BEL",
+    "YEAR": 1970,
+    "VALUE": 45828
+  },
+  {
+    "COUNTRY": "BEL",
+    "YEAR": 1980,
+    "VALUE": 53889
+  },
+  {
+    "COUNTRY": "BEL",
+    "YEAR": 1985,
+    "VALUE": 79563
+  },
+  {
+    "COUNTRY": "BEL",
+    "YEAR": 1986,
+    "VALUE": 79015
+  },
+  {
+    "COUNTRY": "BEL",
+    "YEAR": 1987,
+    "VALUE": 76202
+  },
+  {
+    "COUNTRY": "BEL",
+    "YEAR": 1988,
+    "VALUE": 70708
+  },
+  {
+    "COUNTRY": "BEL",
+    "YEAR": 1989,
+    "VALUE": 70075
+  },
+  {
+    "COUNTRY": "BEL",
+    "YEAR": 1990,
+    "VALUE": 70862
+  },
+  {
+    "COUNTRY": "BEL",
+    "YEAR": 1991,
+    "VALUE": 71836
+  },
+  {
+    "COUNTRY": "BEL",
+    "YEAR": 1992,
+    "VALUE": 72618
+  },
+  {
+    "COUNTRY": "BEL",
+    "YEAR": 1993,
+    "VALUE": 72485
+  },
+  {
+    "COUNTRY": "BEL",
+    "YEAR": 1994,
+    "VALUE": 71730
+  },
+  {
+    "COUNTRY": "BEL",
+    "YEAR": 1995,
+    "VALUE": 70769
+  },
+  {
+    "COUNTRY": "BEL",
+    "YEAR": 1996,
+    "VALUE": 76534
+  },
+  {
+    "COUNTRY": "BEL",
+    "YEAR": 1997,
+    "VALUE": 76599
+  },
+  {
+    "COUNTRY": "BEL",
+    "YEAR": 1998,
+    "VALUE": 75974
+  },
+  {
+    "COUNTRY": "BEL",
+    "YEAR": 1999,
+    "VALUE": 75259
+  },
+  {
+    "COUNTRY": "BEL",
+    "YEAR": 2000,
+    "VALUE": 74962
+  },
+  {
+    "COUNTRY": "BEL",
+    "YEAR": 2001,
+    "VALUE": 73751
+  },
+  {
+    "COUNTRY": "BEL",
+    "YEAR": 2002,
+    "VALUE": 73111
+  },
+  {
+    "COUNTRY": "BEL",
+    "YEAR": 2003,
+    "VALUE": 72462
+  },
+  {
+    "COUNTRY": "BEL",
+    "YEAR": 2004,
+    "VALUE": 72442
+  },
+  {
+    "COUNTRY": "BEL",
+    "YEAR": 2005,
+    "VALUE": 72274
+  },
+  {
+    "COUNTRY": "BEL",
+    "YEAR": 2006,
+    "VALUE": 65050
+  },
+  {
+    "COUNTRY": "BEL",
+    "YEAR": 2007,
+    "VALUE": 64619
+  },
+  {
+    "COUNTRY": "BEL",
+    "YEAR": 2008,
+    "VALUE": 64594
+  },
+  {
+    "COUNTRY": "BEL",
+    "YEAR": 2009,
+    "VALUE": 64354
+  },
+  {
+    "COUNTRY": "BEL",
+    "YEAR": 2010,
+    "VALUE": 64168
+  },
+  {
+    "COUNTRY": "BEL",
+    "YEAR": 2011,
+    "VALUE": 64112
+  },
+  {
+    "COUNTRY": "BEL",
+    "YEAR": 2012,
+    "VALUE": 63802
+  },
+  {
+    "COUNTRY": "BEL",
+    "YEAR": 2013,
+    "VALUE": 63674
+  },
+  {
+    "COUNTRY": "BEL",
+    "YEAR": 2014,
+    "VALUE": 63683
+  },
+  {
+    "COUNTRY": "BEL",
+    "YEAR": 2015,
+    "VALUE": 63692
+  },
+  {
+    "COUNTRY": "BGR",
+    "YEAR": 2005,
+    "VALUE": 42015
+  },
+  {
+    "COUNTRY": "BGR",
+    "YEAR": 2006,
+    "VALUE": 40076
+  },
+  {
+    "COUNTRY": "BGR",
+    "YEAR": 2007,
+    "VALUE": 40950
+  },
+  {
+    "COUNTRY": "BGR",
+    "YEAR": 2008,
+    "VALUE": 41537
+  },
+  {
+    "COUNTRY": "BGR",
+    "YEAR": 2009,
+    "VALUE": 42049
+  },
+  {
+    "COUNTRY": "BGR",
+    "YEAR": 2010,
+    "VALUE": 41221
+  },
+  {
+    "COUNTRY": "BGR",
+    "YEAR": 2011,
+    "VALUE": 40155
+  },
+  {
+    "COUNTRY": "BGR",
+    "YEAR": 2012,
+    "VALUE": 40883
+  },
+  {
+    "COUNTRY": "BGR",
+    "YEAR": 2013,
+    "VALUE": 41625
+  },
+  {
+    "COUNTRY": "BGR",
+    "YEAR": 2014,
+    "VALUE": 42851
+  },
+  {
+    "COUNTRY": "BLR",
+    "YEAR": 2013,
+    "VALUE": 84021
+  },
+  {
+    "COUNTRY": "BLR",
+    "YEAR": 2014,
+    "VALUE": 82314
+  },
+  {
+    "COUNTRY": "",
+    "YEAR": 2000,
+    "VALUE": 267888
+  },
+  {
+    "COUNTRY": "",
+    "YEAR": 2001,
+    "VALUE": 265478
+  },
+  {
+    "COUNTRY": "",
+    "YEAR": 2002,
+    "VALUE": 270368
+  },
+  {
+    "COUNTRY": "",
+    "YEAR": 2003,
+    "VALUE": 270966
+  },
+  {
+    "COUNTRY": "",
+    "YEAR": 2004,
+    "VALUE": 268031
+  },
+  {
+    "COUNTRY": "",
+    "YEAR": 2005,
+    "VALUE": 265157
+  },
+  {
+    "COUNTRY": "",
+    "YEAR": 2006,
+    "VALUE": 265944
+  },
+  {
+    "COUNTRY": "",
+    "YEAR": 2007,
+    "VALUE": 259564
+  },
+  {
+    "COUNTRY": "",
+    "YEAR": 2008,
+    "VALUE": 258943
+  },
+  {
+    "COUNTRY": "",
+    "YEAR": 2009,
+    "VALUE": 265274
+  },
+  {
+    "COUNTRY": "",
+    "YEAR": 2010,
+    "VALUE": 258304
+  },
+  {
+    "COUNTRY": "",
+    "YEAR": 2011,
+    "VALUE": 257935
+  },
+  {
+    "COUNTRY": "",
+    "YEAR": 2012,
+    "VALUE": 251010
+  },
+  {
+    "COUNTRY": "",
+    "YEAR": 2013,
+    "VALUE": 247848
+  },
+  {
+    "COUNTRY": "",
+    "YEAR": 2014,
+    "VALUE": 243343
+  },
+  {
+    "COUNTRY": "CHE",
+    "YEAR": 1998,
+    "VALUE": 39889
+  },
+  {
+    "COUNTRY": "CHE",
+    "YEAR": 1999,
+    "VALUE": 40280
+  },
+  {
+    "COUNTRY": "CHE",
+    "YEAR": 2000,
+    "VALUE": 38128
+  },
+  {
+    "COUNTRY": "CHE",
+    "YEAR": 2001,
+    "VALUE": 36973
+  },
+  {
+    "COUNTRY": "CHE",
+    "YEAR": 2002,
+    "VALUE": 36687
+  },
+  {
+    "COUNTRY": "CHE",
+    "YEAR": 2003,
+    "VALUE": 36152
+  },
+  {
+    "COUNTRY": "CHE",
+    "YEAR": 2004,
+    "VALUE": 35721
+  },
+  {
+    "COUNTRY": "CHE",
+    "YEAR": 2005,
+    "VALUE": 34999
+  },
+  {
+    "COUNTRY": "CHE",
+    "YEAR": 2006,
+    "VALUE": 33974
+  },
+  {
+    "COUNTRY": "CHE",
+    "YEAR": 2007,
+    "VALUE": 33852
+  },
+  {
+    "COUNTRY": "CHE",
+    "YEAR": 2008,
+    "VALUE": 33251
+  },
+  {
+    "COUNTRY": "CHE",
+    "YEAR": 2009,
+    "VALUE": 33038
+  },
+  {
+    "COUNTRY": "CHE",
+    "YEAR": 2010,
+    "VALUE": 32031
+  },
+  {
+    "COUNTRY": "CHE",
+    "YEAR": 2011,
+    "VALUE": 31246
+  },
+  {
+    "COUNTRY": "CHE",
+    "YEAR": 2012,
+    "VALUE": 31315
+  },
+  {
+    "COUNTRY": "CHE",
+    "YEAR": 2013,
+    "VALUE": 30902
+  },
+  {
+    "COUNTRY": "CHE",
+    "YEAR": 2014,
+    "VALUE": 30799
+  },
+  {
+    "COUNTRY": "",
+    "YEAR": 2013,
+    "VALUE": 1630362
+  },
+  {
+    "COUNTRY": "CYP",
+    "YEAR": 1976,
+    "VALUE": 1875
+  },
+  {
+    "COUNTRY": "CYP",
+    "YEAR": 1977,
+    "VALUE": 1883
+  },
+  {
+    "COUNTRY": "CYP",
+    "YEAR": 1978,
+    "VALUE": 1915
+  },
+  {
+    "COUNTRY": "CYP",
+    "YEAR": 1979,
+    "VALUE": 1965
+  },
+  {
+    "COUNTRY": "CYP",
+    "YEAR": 1980,
+    "VALUE": 2048
+  },
+  {
+    "COUNTRY": "CYP",
+    "YEAR": 1981,
+    "VALUE": 1960
+  },
+  {
+    "COUNTRY": "CYP",
+    "YEAR": 1982,
+    "VALUE": 1960
+  },
+  {
+    "COUNTRY": "CYP",
+    "YEAR": 1983,
+    "VALUE": 1971
+  },
+  {
+    "COUNTRY": "CYP",
+    "YEAR": 1984,
+    "VALUE": 1933
+  },
+  {
+    "COUNTRY": "CYP",
+    "YEAR": 1985,
+    "VALUE": 3294
+  },
+  {
+    "COUNTRY": "CYP",
+    "YEAR": 1986,
+    "VALUE": 3387
+  },
+  {
+    "COUNTRY": "CYP",
+    "YEAR": 1987,
+    "VALUE": 3360
+  },
+  {
+    "COUNTRY": "CYP",
+    "YEAR": 1988,
+    "VALUE": 3396
+  },
+  {
+    "COUNTRY": "CYP",
+    "YEAR": 1989,
+    "VALUE": 3413
+  },
+  {
+    "COUNTRY": "CYP",
+    "YEAR": 1990,
+    "VALUE": 3405
+  },
+  {
+    "COUNTRY": "CYP",
+    "YEAR": 1991,
+    "VALUE": 3391
+  },
+  {
+    "COUNTRY": "CYP",
+    "YEAR": 1992,
+    "VALUE": 3331
+  },
+  {
+    "COUNTRY": "CYP",
+    "YEAR": 1993,
+    "VALUE": 3270
+  },
+  {
+    "COUNTRY": "CYP",
+    "YEAR": 1994,
+    "VALUE": 1703
+  },
+  {
+    "COUNTRY": "CYP",
+    "YEAR": 1995,
+    "VALUE": 3298
+  },
+  {
+    "COUNTRY": "CYP",
+    "YEAR": 1996,
+    "VALUE": 1728
+  },
+  {
+    "COUNTRY": "CYP",
+    "YEAR": 1997,
+    "VALUE": 1569
+  },
+  {
+    "COUNTRY": "CYP",
+    "YEAR": 1998,
+    "VALUE": 1533
+  },
+  {
+    "COUNTRY": "CYP",
+    "YEAR": 1999,
+    "VALUE": 1527
+  },
+  {
+    "COUNTRY": "CYP",
+    "YEAR": 2000,
+    "VALUE": 3139
+  },
+  {
+    "COUNTRY": "CYP",
+    "YEAR": 2001,
+    "VALUE": 1423
+  },
+  {
+    "COUNTRY": "CYP",
+    "YEAR": 2002,
+    "VALUE": 1451
+  },
+  {
+    "COUNTRY": "CYP",
+    "YEAR": 2003,
+    "VALUE": 1438
+  },
+  {
+    "COUNTRY": "CYP",
+    "YEAR": 2004,
+    "VALUE": 1430
+  },
+  {
+    "COUNTRY": "CYP",
+    "YEAR": 2005,
+    "VALUE": 2842
+  },
+  {
+    "COUNTRY": "CYP",
+    "YEAR": 2006,
+    "VALUE": 2856
+  },
+  {
+    "COUNTRY": "CYP",
+    "YEAR": 2007,
+    "VALUE": 2916
+  },
+  {
+    "COUNTRY": "CYP",
+    "YEAR": 2008,
+    "VALUE": 2977
+  },
+  {
+    "COUNTRY": "CYP",
+    "YEAR": 2009,
+    "VALUE": 3040
+  },
+  {
+    "COUNTRY": "CYP",
+    "YEAR": 2010,
+    "VALUE": 2958
+  },
+  {
+    "COUNTRY": "CYP",
+    "YEAR": 2011,
+    "VALUE": 2988
+  },
+  {
+    "COUNTRY": "CYP",
+    "YEAR": 2012,
+    "VALUE": 2990
+  },
+  {
+    "COUNTRY": "CYP",
+    "YEAR": 2013,
+    "VALUE": 2938
+  },
+  {
+    "COUNTRY": "CYP",
+    "YEAR": 2014,
+    "VALUE": 2912
+  },
+  {
+    "COUNTRY": "CZE",
+    "YEAR": 1980,
+    "VALUE": 83654
+  },
+  {
+    "COUNTRY": "CZE",
+    "YEAR": 1985,
+    "VALUE": 84497
+  },
+  {
+    "COUNTRY": "CZE",
+    "YEAR": 1990,
+    "VALUE": 83720
+  },
+  {
+    "COUNTRY": "CZE",
+    "YEAR": 1995,
+    "VALUE": 70891
+  },
+  {
+    "COUNTRY": "CZE",
+    "YEAR": 1996,
+    "VALUE": 67653
+  },
+  {
+    "COUNTRY": "CZE",
+    "YEAR": 1997,
+    "VALUE": 65036
+  },
+  {
+    "COUNTRY": "CZE",
+    "YEAR": 1998,
+    "VALUE": 62793
+  },
+  {
+    "COUNTRY": "CZE",
+    "YEAR": 1999,
+    "VALUE": 60127
+  },
+  {
+    "COUNTRY": "CZE",
+    "YEAR": 2000,
+    "VALUE": 59300
+  },
+  {
+    "COUNTRY": "CZE",
+    "YEAR": 2001,
+    "VALUE": 58494
+  },
+  {
+    "COUNTRY": "CZE",
+    "YEAR": 2002,
+    "VALUE": 58033
+  },
+  {
+    "COUNTRY": "CZE",
+    "YEAR": 2003,
+    "VALUE": 56918
+  },
+  {
+    "COUNTRY": "CZE",
+    "YEAR": 2004,
+    "VALUE": 55408
+  },
+  {
+    "COUNTRY": "CZE",
+    "YEAR": 2005,
+    "VALUE": 54787
+  },
+  {
+    "COUNTRY": "CZE",
+    "YEAR": 2006,
+    "VALUE": 54034
+  },
+  {
+    "COUNTRY": "CZE",
+    "YEAR": 2007,
+    "VALUE": 53652
+  },
+  {
+    "COUNTRY": "CZE",
+    "YEAR": 2008,
+    "VALUE": 52979
+  },
+  {
+    "COUNTRY": "CZE",
+    "YEAR": 2009,
+    "VALUE": 52290
+  },
+  {
+    "COUNTRY": "CZE",
+    "YEAR": 2010,
+    "VALUE": 51132
+  },
+  {
+    "COUNTRY": "CZE",
+    "YEAR": 2011,
+    "VALUE": 49206
+  },
+  {
+    "COUNTRY": "CZE",
+    "YEAR": 2012,
+    "VALUE": 47581
+  },
+  {
+    "COUNTRY": "CZE",
+    "YEAR": 2013,
+    "VALUE": 45288
+  },
+  {
+    "COUNTRY": "CZE",
+    "YEAR": 2014,
+    "VALUE": 44810
+  },
+  {
+    "COUNTRY": "DEU",
+    "YEAR": 1991,
+    "VALUE": 665565
+  },
+  {
+    "COUNTRY": "DEU",
+    "YEAR": 1992,
+    "VALUE": 646995
+  },
+  {
+    "COUNTRY": "DEU",
+    "YEAR": 1993,
+    "VALUE": 628658
+  },
+  {
+    "COUNTRY": "DEU",
+    "YEAR": 1994,
+    "VALUE": 618176
+  },
+  {
+    "COUNTRY": "DEU",
+    "YEAR": 1995,
+    "VALUE": 609123
+  },
+  {
+    "COUNTRY": "DEU",
+    "YEAR": 1996,
+    "VALUE": 593743
+  },
+  {
+    "COUNTRY": "DEU",
+    "YEAR": 1997,
+    "VALUE": 580425
+  },
+  {
+    "COUNTRY": "DEU",
+    "YEAR": 1998,
+    "VALUE": 571629
+  },
+  {
+    "COUNTRY": "DEU",
+    "YEAR": 1999,
+    "VALUE": 565268
+  },
+  {
+    "COUNTRY": "DEU",
+    "YEAR": 2000,
+    "VALUE": 559651
+  },
+  {
+    "COUNTRY": "DEU",
+    "YEAR": 2001,
+    "VALUE": 552680
+  },
+  {
+    "COUNTRY": "DEU",
+    "YEAR": 2002,
+    "VALUE": 547284
+  },
+  {
+    "COUNTRY": "DEU",
+    "YEAR": 2003,
+    "VALUE": 541901
+  },
+  {
+    "COUNTRY": "DEU",
+    "YEAR": 2004,
+    "VALUE": 531333
+  },
+  {
+    "COUNTRY": "DEU",
+    "YEAR": 2005,
+    "VALUE": 523824
+  },
+  {
+    "COUNTRY": "DEU",
+    "YEAR": 2006,
+    "VALUE": 510767
+  },
+  {
+    "COUNTRY": "DEU",
+    "YEAR": 2007,
+    "VALUE": 506954
+  },
+  {
+    "COUNTRY": "DEU",
+    "YEAR": 2008,
+    "VALUE": 503360
+  },
+  {
+    "COUNTRY": "DEU",
+    "YEAR": 2009,
+    "VALUE": 503341
+  },
+  {
+    "COUNTRY": "DEU",
+    "YEAR": 2010,
+    "VALUE": 502749
+  },
+  {
+    "COUNTRY": "DEU",
+    "YEAR": 2011,
+    "VALUE": 502029
+  },
+  {
+    "COUNTRY": "DEU",
+    "YEAR": 2012,
+    "VALUE": 501475
+  },
+  {
+    "COUNTRY": "DEU",
+    "YEAR": 2013,
+    "VALUE": 500671
+  },
+  {
+    "COUNTRY": "DEU",
+    "YEAR": 2014,
+    "VALUE": 500680
+  },
+  {
+    "COUNTRY": "DNK",
+    "YEAR": 1997,
+    "VALUE": 24538
+  },
+  {
+    "COUNTRY": "DNK",
+    "YEAR": 1998,
+    "VALUE": 24062
+  },
+  {
+    "COUNTRY": "DNK",
+    "YEAR": 1999,
+    "VALUE": 23272
+  },
+  {
+    "COUNTRY": "DNK",
+    "YEAR": 2000,
+    "VALUE": 22749
+  },
+  {
+    "COUNTRY": "DNK",
+    "YEAR": 2001,
+    "VALUE": 22452
+  },
+  {
+    "COUNTRY": "DNK",
+    "YEAR": 2002,
+    "VALUE": 22887
+  },
+  {
+    "COUNTRY": "DNK",
+    "YEAR": 2003,
+    "VALUE": 22104
+  },
+  {
+    "COUNTRY": "DNK",
+    "YEAR": 2004,
+    "VALUE": 21254
+  },
+  {
+    "COUNTRY": "DNK",
+    "YEAR": 2005,
+    "VALUE": 20609
+  },
+  {
+    "COUNTRY": "DNK",
+    "YEAR": 2006,
+    "VALUE": 20232
+  },
+  {
+    "COUNTRY": "DNK",
+    "YEAR": 2007,
+    "VALUE": 19681
+  },
+  {
+    "COUNTRY": "DNK",
+    "YEAR": 2008,
+    "VALUE": 19269
+  },
+  {
+    "COUNTRY": "DNK",
+    "YEAR": 2009,
+    "VALUE": 18995
+  },
+  {
+    "COUNTRY": "DNK",
+    "YEAR": 2010,
+    "VALUE": 19059
+  },
+  {
+    "COUNTRY": "DNK",
+    "YEAR": 2011,
+    "VALUE": 17085
+  },
+  {
+    "COUNTRY": "DNK",
+    "YEAR": 2013,
+    "VALUE": 16867
+  },
+  {
+    "COUNTRY": "DNK",
+    "YEAR": 2014,
+    "VALUE": 14776
+  },
+  {
+    "COUNTRY": "DNK",
+    "YEAR": 2015,
+    "VALUE": 13962
+  },
+  {
+    "COUNTRY": "ESP",
+    "YEAR": 1985,
+    "VALUE": 135120
+  },
+  {
+    "COUNTRY": "ESP",
+    "YEAR": 1986,
+    "VALUE": 132678
+  },
+  {
+    "COUNTRY": "ESP",
+    "YEAR": 1987,
+    "VALUE": 133856
+  },
+  {
+    "COUNTRY": "ESP",
+    "YEAR": 1988,
+    "VALUE": 133277
+  },
+  {
+    "COUNTRY": "ESP",
+    "YEAR": 1989,
+    "VALUE": 131779
+  },
+  {
+    "COUNTRY": "ESP",
+    "YEAR": 1990,
+    "VALUE": 129903
+  },
+  {
+    "COUNTRY": "ESP",
+    "YEAR": 1991,
+    "VALUE": 127080
+  },
+  {
+    "COUNTRY": "ESP",
+    "YEAR": 1992,
+    "VALUE": 123865
+  },
+  {
+    "COUNTRY": "ESP",
+    "YEAR": 1993,
+    "VALUE": 122131
+  },
+  {
+    "COUNTRY": "ESP",
+    "YEAR": 1994,
+    "VALUE": 121743
+  },
+  {
+    "COUNTRY": "ESP",
+    "YEAR": 1995,
+    "VALUE": 119065
+  },
+  {
+    "COUNTRY": "ESP",
+    "YEAR": 1996,
+    "VALUE": 121591
+  },
+  {
+    "COUNTRY": "ESP",
+    "YEAR": 1997,
+    "VALUE": 119986
+  },
+  {
+    "COUNTRY": "ESP",
+    "YEAR": 1998,
+    "VALUE": 119220
+  },
+  {
+    "COUNTRY": "ESP",
+    "YEAR": 1999,
+    "VALUE": 118706
+  },
+  {
+    "COUNTRY": "ESP",
+    "YEAR": 2000,
+    "VALUE": 117375
+  },
+  {
+    "COUNTRY": "ESP",
+    "YEAR": 2001,
+    "VALUE": 116041
+  },
+  {
+    "COUNTRY": "ESP",
+    "YEAR": 2002,
+    "VALUE": 115119
+  },
+  {
+    "COUNTRY": "ESP",
+    "YEAR": 2003,
+    "VALUE": 113868
+  },
+  {
+    "COUNTRY": "ESP",
+    "YEAR": 2004,
+    "VALUE": 114830
+  },
+  {
+    "COUNTRY": "ESP",
+    "YEAR": 2005,
+    "VALUE": 115800
+  },
+  {
+    "COUNTRY": "ESP",
+    "YEAR": 2006,
+    "VALUE": 115834
+  },
+  {
+    "COUNTRY": "ESP",
+    "YEAR": 2007,
+    "VALUE": 117483
+  },
+  {
+    "COUNTRY": "ESP",
+    "YEAR": 2008,
+    "VALUE": 117607
+  },
+  {
+    "COUNTRY": "ESP",
+    "YEAR": 2009,
+    "VALUE": 117160
+  },
+  {
+    "COUNTRY": "ESP",
+    "YEAR": 2010,
+    "VALUE": 115859
+  },
+  {
+    "COUNTRY": "ESP",
+    "YEAR": 2011,
+    "VALUE": 113785
+  },
+  {
+    "COUNTRY": "ESP",
+    "YEAR": 2012,
+    "VALUE": 111232
+  },
+  {
+    "COUNTRY": "ESP",
+    "YEAR": 2013,
+    "VALUE": 110118
+  },
+  {
+    "COUNTRY": "ESP",
+    "YEAR": 2014,
+    "VALUE": 110346
+  },
+  {
+    "COUNTRY": "EST",
+    "YEAR": 1980,
+    "VALUE": 14220
+  },
+  {
+    "COUNTRY": "EST",
+    "YEAR": 1985,
+    "VALUE": 14795
+  },
+  {
+    "COUNTRY": "EST",
+    "YEAR": 1986,
+    "VALUE": 14910
+  },
+  {
+    "COUNTRY": "EST",
+    "YEAR": 1987,
+    "VALUE": 14869
+  },
+  {
+    "COUNTRY": "EST",
+    "YEAR": 1988,
+    "VALUE": 14719
+  },
+  {
+    "COUNTRY": "EST",
+    "YEAR": 1989,
+    "VALUE": 14746
+  },
+  {
+    "COUNTRY": "EST",
+    "YEAR": 1990,
+    "VALUE": 14413
+  },
+  {
+    "COUNTRY": "EST",
+    "YEAR": 1991,
+    "VALUE": 14191
+  },
+  {
+    "COUNTRY": "EST",
+    "YEAR": 1992,
+    "VALUE": 11681
+  },
+  {
+    "COUNTRY": "EST",
+    "YEAR": 1993,
+    "VALUE": 11281
+  },
+  {
+    "COUNTRY": "EST",
+    "YEAR": 1994,
+    "VALUE": 9609
+  },
+  {
+    "COUNTRY": "EST",
+    "YEAR": 1995,
+    "VALUE": 9528
+  },
+  {
+    "COUNTRY": "EST",
+    "YEAR": 1996,
+    "VALUE": 8670
+  },
+  {
+    "COUNTRY": "EST",
+    "YEAR": 1997,
+    "VALUE": 8322
+  },
+  {
+    "COUNTRY": "EST",
+    "YEAR": 1998,
+    "VALUE": 8098
+  },
+  {
+    "COUNTRY": "EST",
+    "YEAR": 1999,
+    "VALUE": 8028
+  },
+  {
+    "COUNTRY": "EST",
+    "YEAR": 2000,
+    "VALUE": 8381
+  },
+  {
+    "COUNTRY": "EST",
+    "YEAR": 2001,
+    "VALUE": 7595
+  },
+  {
+    "COUNTRY": "EST",
+    "YEAR": 2002,
+    "VALUE": 6619
+  },
+  {
+    "COUNTRY": "EST",
+    "YEAR": 2003,
+    "VALUE": 6286
+  },
+  {
+    "COUNTRY": "EST",
+    "YEAR": 2004,
+    "VALUE": 5975
+  },
+  {
+    "COUNTRY": "EST",
+    "YEAR": 2005,
+    "VALUE": 5499
+  },
+  {
+    "COUNTRY": "EST",
+    "YEAR": 2006,
+    "VALUE": 5643
+  },
+  {
+    "COUNTRY": "EST",
+    "YEAR": 2007,
+    "VALUE": 5452
+  },
+  {
+    "COUNTRY": "EST",
+    "YEAR": 2008,
+    "VALUE": 5510
+  },
+  {
+    "COUNTRY": "EST",
+    "YEAR": 2009,
+    "VALUE": 5205
+  },
+  {
+    "COUNTRY": "EST",
+    "YEAR": 2010,
+    "VALUE": 5002
+  },
+  {
+    "COUNTRY": "EST",
+    "YEAR": 2011,
+    "VALUE": 5086
+  },
+  {
+    "COUNTRY": "EST",
+    "YEAR": 2012,
+    "VALUE": 5093
+  },
+  {
+    "COUNTRY": "EST",
+    "YEAR": 2013,
+    "VALUE": 4835
+  },
+  {
+    "COUNTRY": "EST",
+    "YEAR": 2014,
+    "VALUE": 4824
+  },
+  {
+    "COUNTRY": "",
+    "YEAR": 2012,
+    "VALUE": 496863
+  },
+  {
+    "COUNTRY": "",
+    "YEAR": 2013,
+    "VALUE": 494830
+  },
+  {
+    "COUNTRY": "",
+    "YEAR": 2004,
+    "VALUE": 1655843
+  },
+  {
+    "COUNTRY": "",
+    "YEAR": 2005,
+    "VALUE": 1641558
+  },
+  {
+    "COUNTRY": "",
+    "YEAR": 2006,
+    "VALUE": 1612844
+  },
+  {
+    "COUNTRY": "",
+    "YEAR": 2007,
+    "VALUE": 1596140
+  },
+  {
+    "COUNTRY": "",
+    "YEAR": 2008,
+    "VALUE": 1580641
+  },
+  {
+    "COUNTRY": "",
+    "YEAR": 2009,
+    "VALUE": 1573190
+  },
+  {
+    "COUNTRY": "",
+    "YEAR": 2010,
+    "VALUE": 1549330
+  },
+  {
+    "COUNTRY": "",
+    "YEAR": 2011,
+    "VALUE": 1537146
+  },
+  {
+    "COUNTRY": "",
+    "YEAR": 2012,
+    "VALUE": 1525071
+  },
+  {
+    "COUNTRY": "",
+    "YEAR": 2012,
+    "VALUE": 2021934
+  },
+  {
+    "COUNTRY": "FIN",
+    "YEAR": 1970,
+    "VALUE": 22300
+  },
+  {
+    "COUNTRY": "FIN",
+    "YEAR": 1993,
+    "VALUE": 15777
+  },
+  {
+    "COUNTRY": "FIN",
+    "YEAR": 1994,
+    "VALUE": 15581
+  },
+  {
+    "COUNTRY": "FIN",
+    "YEAR": 1995,
+    "VALUE": 15277
+  },
+  {
+    "COUNTRY": "FIN",
+    "YEAR": 1996,
+    "VALUE": 15310
+  },
+  {
+    "COUNTRY": "FIN",
+    "YEAR": 1997,
+    "VALUE": 14119
+  },
+  {
+    "COUNTRY": "FIN",
+    "YEAR": 1998,
+    "VALUE": 13351
+  },
+  {
+    "COUNTRY": "FIN",
+    "YEAR": 1999,
+    "VALUE": 12848
+  },
+  {
+    "COUNTRY": "FIN",
+    "YEAR": 2000,
+    "VALUE": 20346.66
+  },
+  {
+    "COUNTRY": "FIN",
+    "YEAR": 2001,
+    "VALUE": 20057.71
+  },
+  {
+    "COUNTRY": "FIN",
+    "YEAR": 2002,
+    "VALUE": 19929.62
+  },
+  {
+    "COUNTRY": "FIN",
+    "YEAR": 2003,
+    "VALUE": 19879.61
+  },
+  {
+    "COUNTRY": "FIN",
+    "YEAR": 2004,
+    "VALUE": 19776.03
+  },
+  {
+    "COUNTRY": "FIN",
+    "YEAR": 2005,
+    "VALUE": 19531.69
+  },
+  {
+    "COUNTRY": "FIN",
+    "YEAR": 2006,
+    "VALUE": 19195.19
+  },
+  {
+    "COUNTRY": "FIN",
+    "YEAR": 2007,
+    "VALUE": 18885.33
+  },
+  {
+    "COUNTRY": "FIN",
+    "YEAR": 2008,
+    "VALUE": 18585.47
+  },
+  {
+    "COUNTRY": "FIN",
+    "YEAR": 2009,
+    "VALUE": 18221.98
+  },
+  {
+    "COUNTRY": "FIN",
+    "YEAR": 2010,
+    "VALUE": 18118.45
+  },
+  {
+    "COUNTRY": "FIN",
+    "YEAR": 2011,
+    "VALUE": 17793.51
+  },
+  {
+    "COUNTRY": "FIN",
+    "YEAR": 2012,
+    "VALUE": 17598.74
+  },
+  {
+    "COUNTRY": "FIN",
+    "YEAR": 2013,
+    "VALUE": 16966.86
+  },
+  {
+    "COUNTRY": "FIN",
+    "YEAR": 2014,
+    "VALUE": 16852.86
+  },
+  {
+    "COUNTRY": "FRA",
+    "YEAR": 1997,
+    "VALUE": 331389
+  },
+  {
+    "COUNTRY": "FRA",
+    "YEAR": 1998,
+    "VALUE": 323757
+  },
+  {
+    "COUNTRY": "FRA",
+    "YEAR": 1999,
+    "VALUE": 318942
+  },
+  {
+    "COUNTRY": "FRA",
+    "YEAR": 2000,
+    "VALUE": 309635
+  },
+  {
+    "COUNTRY": "FRA",
+    "YEAR": 2001,
+    "VALUE": 303854
+  },
+  {
+    "COUNTRY": "FRA",
+    "YEAR": 2002,
+    "VALUE": 301238
+  },
+  {
+    "COUNTRY": "FRA",
+    "YEAR": 2003,
+    "VALUE": 295997
+  },
+  {
+    "COUNTRY": "FRA",
+    "YEAR": 2004,
+    "VALUE": 292859
+  },
+  {
+    "COUNTRY": "FRA",
+    "YEAR": 2005,
+    "VALUE": 290748
+  },
+  {
+    "COUNTRY": "FRA",
+    "YEAR": 2006,
+    "VALUE": 287887
+  },
+  {
+    "COUNTRY": "FRA",
+    "YEAR": 2007,
+    "VALUE": 286304
+  },
+  {
+    "COUNTRY": "FRA",
+    "YEAR": 2008,
+    "VALUE": 283037
+  },
+  {
+    "COUNTRY": "FRA",
+    "YEAR": 2009,
+    "VALUE": 282481
+  },
+  {
+    "COUNTRY": "FRA",
+    "YEAR": 2010,
+    "VALUE": 281633
+  },
+  {
+    "COUNTRY": "FRA",
+    "YEAR": 2011,
+    "VALUE": 280274
+  },
+  {
+    "COUNTRY": "FRA",
+    "YEAR": 2012,
+    "VALUE": 279653
+  },
+  {
+    "COUNTRY": "FRA",
+    "YEAR": 2013,
+    "VALUE": 277969
+  },
+  {
+    "COUNTRY": "FRA",
+    "YEAR": 2014,
+    "VALUE": 274462
+  },
+  {
+    "COUNTRY": "GBR",
+    "YEAR": 2000,
+    "VALUE": 186417.39726027
+  },
+  {
+    "COUNTRY": "GBR",
+    "YEAR": 2001,
+    "VALUE": 186776.36712329
+  },
+  {
+    "COUNTRY": "GBR",
+    "YEAR": 2002,
+    "VALUE": 185949.58630137
+  },
+  {
+    "COUNTRY": "GBR",
+    "YEAR": 2003,
+    "VALUE": 186100.69672131
+  },
+  {
+    "COUNTRY": "GBR",
+    "YEAR": 2004,
+    "VALUE": 184364.09315068
+  },
+  {
+    "COUNTRY": "GBR",
+    "YEAR": 2005,
+    "VALUE": 180343.56712329
+  },
+  {
+    "COUNTRY": "GBR",
+    "YEAR": 2006,
+    "VALUE": 173660.91232877
+  },
+  {
+    "COUNTRY": "GBR",
+    "YEAR": 2007,
+    "VALUE": 167669.9068306
+  },
+  {
+    "COUNTRY": "GBR",
+    "YEAR": 2008,
+    "VALUE": 167006.23829661
+  },
+  {
+    "COUNTRY": "GBR",
+    "YEAR": 2009,
+    "VALUE": 165868.50075947
+  },
+  {
+    "COUNTRY": "GBR",
+    "YEAR": 2010,
+    "VALUE": 149935.27371461
+  },
+  {
+    "COUNTRY": "GBR",
+    "YEAR": 2011,
+    "VALUE": 149050.77465253
+  },
+  {
+    "COUNTRY": "GBR",
+    "YEAR": 2012,
+    "VALUE": 147234.79444444
+  },
+  {
+    "COUNTRY": "GBR",
+    "YEAR": 2013,
+    "VALUE": 146114.98253533
+  },
+  {
+    "COUNTRY": "GBR",
+    "YEAR": 2014,
+    "VALUE": 146542.66544726
+  },
+  {
+    "COUNTRY": "GEO",
+    "YEAR": 1996,
+    "VALUE": 20769
+  },
+  {
+    "COUNTRY": "GEO",
+    "YEAR": 1997,
+    "VALUE": 21064
+  },
+  {
+    "COUNTRY": "GEO",
+    "YEAR": 1998,
+    "VALUE": 20434
+  },
+  {
+    "COUNTRY": "GEO",
+    "YEAR": 1999,
+    "VALUE": 19777
+  },
+  {
+    "COUNTRY": "GEO",
+    "YEAR": 2000,
+    "VALUE": 18617
+  },
+  {
+    "COUNTRY": "GEO",
+    "YEAR": 2001,
+    "VALUE": 17120
+  },
+  {
+    "COUNTRY": "GEO",
+    "YEAR": 2002,
+    "VALUE": 15951
+  },
+  {
+    "COUNTRY": "GEO",
+    "YEAR": 2003,
+    "VALUE": 15925
+  },
+  {
+    "COUNTRY": "GEO",
+    "YEAR": 2004,
+    "VALUE": 15538
+  },
+  {
+    "COUNTRY": "GEO",
+    "YEAR": 2005,
+    "VALUE": 14783
+  },
+  {
+    "COUNTRY": "GEO",
+    "YEAR": 2006,
+    "VALUE": 13874
+  },
+  {
+    "COUNTRY": "GEO",
+    "YEAR": 2007,
+    "VALUE": 12304
+  },
+  {
+    "COUNTRY": "GEO",
+    "YEAR": 2008,
+    "VALUE": 11641
+  },
+  {
+    "COUNTRY": "GEO",
+    "YEAR": 2009,
+    "VALUE": 11242
+  },
+  {
+    "COUNTRY": "GEO",
+    "YEAR": 2010,
+    "VALUE": 10893
+  },
+  {
+    "COUNTRY": "GEO",
+    "YEAR": 2011,
+    "VALUE": 9487
+  },
+  {
+    "COUNTRY": "GEO",
+    "YEAR": 2014,
+    "VALUE": 8474
+  },
+  {
+    "COUNTRY": "GRC",
+    "YEAR": 1993,
+    "VALUE": 40655
+  },
+  {
+    "COUNTRY": "GRC",
+    "YEAR": 1994,
+    "VALUE": 41134
+  },
+  {
+    "COUNTRY": "GRC",
+    "YEAR": 1995,
+    "VALUE": 40697
+  },
+  {
+    "COUNTRY": "GRC",
+    "YEAR": 1996,
+    "VALUE": 41381
+  },
+  {
+    "COUNTRY": "GRC",
+    "YEAR": 1997,
+    "VALUE": 41238
+  },
+  {
+    "COUNTRY": "GRC",
+    "YEAR": 1998,
+    "VALUE": 41172
+  },
+  {
+    "COUNTRY": "GRC",
+    "YEAR": 1999,
+    "VALUE": 40852
+  },
+  {
+    "COUNTRY": "GRC",
+    "YEAR": 2000,
+    "VALUE": 40874
+  },
+  {
+    "COUNTRY": "GRC",
+    "YEAR": 2001,
+    "VALUE": 42058
+  },
+  {
+    "COUNTRY": "GRC",
+    "YEAR": 2002,
+    "VALUE": 41623
+  },
+  {
+    "COUNTRY": "GRC",
+    "YEAR": 2003,
+    "VALUE": 42069
+  },
+  {
+    "COUNTRY": "GRC",
+    "YEAR": 2004,
+    "VALUE": 41969
+  },
+  {
+    "COUNTRY": "GRC",
+    "YEAR": 2005,
+    "VALUE": 42884
+  },
+  {
+    "COUNTRY": "GRC",
+    "YEAR": 2006,
+    "VALUE": 43965
+  },
+  {
+    "COUNTRY": "GRC",
+    "YEAR": 2007,
+    "VALUE": 44244
+  },
+  {
+    "COUNTRY": "GRC",
+    "YEAR": 2008,
+    "VALUE": 44417
+  },
+  {
+    "COUNTRY": "GRC",
+    "YEAR": 2009,
+    "VALUE": 45729
+  },
+  {
+    "COUNTRY": "GRC",
+    "YEAR": 2010,
+    "VALUE": 40664
+  },
+  {
+    "COUNTRY": "GRC",
+    "YEAR": 2011,
+    "VALUE": 40781
+  },
+  {
+    "COUNTRY": "GRC",
+    "YEAR": 2012,
+    "VALUE": 40385
+  },
+  {
+    "COUNTRY": "GRC",
+    "YEAR": 2013,
+    "VALUE": 38624
+  },
+  {
+    "COUNTRY": "GRC",
+    "YEAR": 2014,
+    "VALUE": 38090
+  },
+  {
+    "COUNTRY": "HRV",
+    "YEAR": 2012,
+    "VALUE": 16613
+  },
+  {
+    "COUNTRY": "HRV",
+    "YEAR": 2013,
+    "VALUE": 16860
+  },
+  {
+    "COUNTRY": "HRV",
+    "YEAR": 2014,
+    "VALUE": 16974
+  },
+  {
+    "COUNTRY": "HUN",
+    "YEAR": 2000,
+    "VALUE": 63442
+  },
+  {
+    "COUNTRY": "HUN",
+    "YEAR": 2001,
+    "VALUE": 61459
+  },
+  {
+    "COUNTRY": "HUN",
+    "YEAR": 2002,
+    "VALUE": 60957
+  },
+  {
+    "COUNTRY": "HUN",
+    "YEAR": 2003,
+    "VALUE": 60583
+  },
+  {
+    "COUNTRY": "HUN",
+    "YEAR": 2004,
+    "VALUE": 60157
+  },
+  {
+    "COUNTRY": "HUN",
+    "YEAR": 2005,
+    "VALUE": 60134
+  },
+  {
+    "COUNTRY": "HUN",
+    "YEAR": 2006,
+    "VALUE": 60072
+  },
+  {
+    "COUNTRY": "HUN",
+    "YEAR": 2007,
+    "VALUE": 45177
+  },
+  {
+    "COUNTRY": "HUN",
+    "YEAR": 2008,
+    "VALUE": 44695
+  },
+  {
+    "COUNTRY": "HUN",
+    "YEAR": 2009,
+    "VALUE": 44689
+  },
+  {
+    "COUNTRY": "HUN",
+    "YEAR": 2010,
+    "VALUE": 44716
+  },
+  {
+    "COUNTRY": "HUN",
+    "YEAR": 2011,
+    "VALUE": 44674
+  },
+  {
+    "COUNTRY": "HUN",
+    "YEAR": 2012,
+    "VALUE": 42750
+  },
+  {
+    "COUNTRY": "HUN",
+    "YEAR": 2013,
+    "VALUE": 42755
+  },
+  {
+    "COUNTRY": "HUN",
+    "YEAR": 2014,
+    "VALUE": 42413
+  },
+  {
+    "COUNTRY": "IRL",
+    "YEAR": 1980,
+    "VALUE": 14459
+  },
+  {
+    "COUNTRY": "IRL",
+    "YEAR": 1981,
+    "VALUE": 14559
+  },
+  {
+    "COUNTRY": "IRL",
+    "YEAR": 1982,
+    "VALUE": 14680
+  },
+  {
+    "COUNTRY": "IRL",
+    "YEAR": 1983,
+    "VALUE": 14825
+  },
+  {
+    "COUNTRY": "IRL",
+    "YEAR": 1984,
+    "VALUE": 14423
+  },
+  {
+    "COUNTRY": "IRL",
+    "YEAR": 1985,
+    "VALUE": 14533
+  },
+  {
+    "COUNTRY": "IRL",
+    "YEAR": 1986,
+    "VALUE": 13916
+  },
+  {
+    "COUNTRY": "IRL",
+    "YEAR": 1987,
+    "VALUE": 12191
+  },
+  {
+    "COUNTRY": "IRL",
+    "YEAR": 1988,
+    "VALUE": 11012
+  },
+  {
+    "COUNTRY": "IRL",
+    "YEAR": 1989,
+    "VALUE": 11045
+  },
+  {
+    "COUNTRY": "IRL",
+    "YEAR": 1990,
+    "VALUE": 11164
+  },
+  {
+    "COUNTRY": "IRL",
+    "YEAR": 1991,
+    "VALUE": 11373
+  },
+  {
+    "COUNTRY": "IRL",
+    "YEAR": 1992,
+    "VALUE": 11143
+  },
+  {
+    "COUNTRY": "IRL",
+    "YEAR": 1993,
+    "VALUE": 10876
+  },
+  {
+    "COUNTRY": "IRL",
+    "YEAR": 1994,
+    "VALUE": 10888
+  },
+  {
+    "COUNTRY": "IRL",
+    "YEAR": 1995,
+    "VALUE": 11020
+  },
+  {
+    "COUNTRY": "IRL",
+    "YEAR": 1996,
+    "VALUE": 11006
+  },
+  {
+    "COUNTRY": "IRL",
+    "YEAR": 1997,
+    "VALUE": 10601
+  },
+  {
+    "COUNTRY": "IRL",
+    "YEAR": 1998,
+    "VALUE": 10529
+  },
+  {
+    "COUNTRY": "IRL",
+    "YEAR": 1999,
+    "VALUE": 10538
+  },
+  {
+    "COUNTRY": "IRL",
+    "YEAR": 2000,
+    "VALUE": 10620
+  },
+  {
+    "COUNTRY": "IRL",
+    "YEAR": 2001,
+    "VALUE": 10609
+  },
+  {
+    "COUNTRY": "IRL",
+    "YEAR": 2002,
+    "VALUE": 11035
+  },
+  {
+    "COUNTRY": "IRL",
+    "YEAR": 2003,
+    "VALUE": 11184
+  },
+  {
+    "COUNTRY": "IRL",
+    "YEAR": 2004,
+    "VALUE": 11314
+  },
+  {
+    "COUNTRY": "IRL",
+    "YEAR": 2005,
+    "VALUE": 11499
+  },
+  {
+    "COUNTRY": "IRL",
+    "YEAR": 2006,
+    "VALUE": 11517
+  },
+  {
+    "COUNTRY": "IRL",
+    "YEAR": 2007,
+    "VALUE": 11532
+  },
+  {
+    "COUNTRY": "IRL",
+    "YEAR": 2008,
+    "VALUE": 11346
+  },
+  {
+    "COUNTRY": "IRL",
+    "YEAR": 2009,
+    "VALUE": 11755
+  },
+  {
+    "COUNTRY": "IRL",
+    "YEAR": 2010,
+    "VALUE": 11417
+  },
+  {
+    "COUNTRY": "IRL",
+    "YEAR": 2011,
+    "VALUE": 11116
+  },
+  {
+    "COUNTRY": "IRL",
+    "YEAR": 2012,
+    "VALUE": 10885
+  },
+  {
+    "COUNTRY": "IRL",
+    "YEAR": 2013,
+    "VALUE": 11005
+  },
+  {
+    "COUNTRY": "IRL",
+    "YEAR": 2014,
+    "VALUE": 11241
+  },
+  {
+    "COUNTRY": "ISL",
+    "YEAR": 2007,
+    "VALUE": 1043
+  },
+  {
+    "COUNTRY": "ISL",
+    "YEAR": 2008,
+    "VALUE": 980
+  },
+  {
+    "COUNTRY": "ISL",
+    "YEAR": 2009,
+    "VALUE": 953
+  },
+  {
+    "COUNTRY": "ISL",
+    "YEAR": 2010,
+    "VALUE": 937
+  },
+  {
+    "COUNTRY": "ISL",
+    "YEAR": 2011,
+    "VALUE": 853
+  },
+  {
+    "COUNTRY": "ISL",
+    "YEAR": 2012,
+    "VALUE": 868
+  },
+  {
+    "COUNTRY": "ISL",
+    "YEAR": 2013,
+    "VALUE": 864
+  },
+  {
+    "COUNTRY": "ISL",
+    "YEAR": 2014,
+    "VALUE": 875
+  },
+  {
+    "COUNTRY": "ISL",
+    "YEAR": 2015,
+    "VALUE": 871
+  },
+  {
+    "COUNTRY": "ISR",
+    "YEAR": 1988,
+    "VALUE": 16376
+  },
+  {
+    "COUNTRY": "ISR",
+    "YEAR": 1989,
+    "VALUE": 16350
+  },
+  {
+    "COUNTRY": "ISR",
+    "YEAR": 1990,
+    "VALUE": 16495
+  },
+  {
+    "COUNTRY": "ISR",
+    "YEAR": 1991,
+    "VALUE": 16766
+  },
+  {
+    "COUNTRY": "ISR",
+    "YEAR": 1992,
+    "VALUE": 17040
+  },
+  {
+    "COUNTRY": "ISR",
+    "YEAR": 1993,
+    "VALUE": 17216
+  },
+  {
+    "COUNTRY": "ISR",
+    "YEAR": 1994,
+    "VALUE": 17354
+  },
+  {
+    "COUNTRY": "ISR",
+    "YEAR": 1995,
+    "VALUE": 17430
+  },
+  {
+    "COUNTRY": "ISR",
+    "YEAR": 1996,
+    "VALUE": 17537
+  },
+  {
+    "COUNTRY": "ISR",
+    "YEAR": 1997,
+    "VALUE": 17732
+  },
+  {
+    "COUNTRY": "ISR",
+    "YEAR": 1998,
+    "VALUE": 17934
+  },
+  {
+    "COUNTRY": "ISR",
+    "YEAR": 1999,
+    "VALUE": 18175
+  },
+  {
+    "COUNTRY": "ISR",
+    "YEAR": 2000,
+    "VALUE": 18351
+  },
+  {
+    "COUNTRY": "ISR",
+    "YEAR": 2001,
+    "VALUE": 18439
+  },
+  {
+    "COUNTRY": "ISR",
+    "YEAR": 2002,
+    "VALUE": 18438
+  },
+  {
+    "COUNTRY": "ISR",
+    "YEAR": 2003,
+    "VALUE": 18545
+  },
+  {
+    "COUNTRY": "ISR",
+    "YEAR": 2004,
+    "VALUE": 18669
+  },
+  {
+    "COUNTRY": "ISR",
+    "YEAR": 2005,
+    "VALUE": 18860
+  },
+  {
+    "COUNTRY": "ISR",
+    "YEAR": 2006,
+    "VALUE": 18000
+  },
+  {
+    "COUNTRY": "ISR",
+    "YEAR": 2007,
+    "VALUE": 18048
+  },
+  {
+    "COUNTRY": "ISR",
+    "YEAR": 2008,
+    "VALUE": 18046
+  },
+  {
+    "COUNTRY": "ISR",
+    "YEAR": 2009,
+    "VALUE": 18055
+  },
+  {
+    "COUNTRY": "ISR",
+    "YEAR": 2010,
+    "VALUE": 18187
+  },
+  {
+    "COUNTRY": "ISR",
+    "YEAR": 2011,
+    "VALUE": 18258
+  },
+  {
+    "COUNTRY": "ISR",
+    "YEAR": 2012,
+    "VALUE": 18467
+  },
+  {
+    "COUNTRY": "ISR",
+    "YEAR": 2013,
+    "VALUE": 18843
+  },
+  {
+    "COUNTRY": "ISR",
+    "YEAR": 2014,
+    "VALUE": 19102
+  },
+  {
+    "COUNTRY": "ISR",
+    "YEAR": 2015,
+    "VALUE": 19133
+  },
+  {
+    "COUNTRY": "ITA",
+    "YEAR": 1975,
+    "VALUE": 578123
+  },
+  {
+    "COUNTRY": "ITA",
+    "YEAR": 1976,
+    "VALUE": 570605
+  },
+  {
+    "COUNTRY": "ITA",
+    "YEAR": 1977,
+    "VALUE": 560030
+  },
+  {
+    "COUNTRY": "ITA",
+    "YEAR": 1978,
+    "VALUE": 547183
+  },
+  {
+    "COUNTRY": "ITA",
+    "YEAR": 1979,
+    "VALUE": 538930
+  },
+  {
+    "COUNTRY": "ITA",
+    "YEAR": 1980,
+    "VALUE": 526330
+  },
+  {
+    "COUNTRY": "ITA",
+    "YEAR": 1981,
+    "VALUE": 511886
+  },
+  {
+    "COUNTRY": "ITA",
+    "YEAR": 1982,
+    "VALUE": 499102
+  },
+  {
+    "COUNTRY": "ITA",
+    "YEAR": 1983,
+    "VALUE": 485616
+  },
+  {
+    "COUNTRY": "ITA",
+    "YEAR": 1984,
+    "VALUE": 467204
+  },
+  {
+    "COUNTRY": "ITA",
+    "YEAR": 1985,
+    "VALUE": 456635
+  },
+  {
+    "COUNTRY": "ITA",
+    "YEAR": 1986,
+    "VALUE": 437827
+  },
+  {
+    "COUNTRY": "ITA",
+    "YEAR": 1987,
+    "VALUE": 428109
+  },
+  {
+    "COUNTRY": "ITA",
+    "YEAR": 1988,
+    "VALUE": 412873
+  },
+  {
+    "COUNTRY": "ITA",
+    "YEAR": 1989,
+    "VALUE": 390709
+  },
+  {
+    "COUNTRY": "ITA",
+    "YEAR": 1990,
+    "VALUE": 397184
+  },
+  {
+    "COUNTRY": "ITA",
+    "YEAR": 1991,
+    "VALUE": 373195
+  },
+  {
+    "COUNTRY": "ITA",
+    "YEAR": 1992,
+    "VALUE": 376760
+  },
+  {
+    "COUNTRY": "ITA",
+    "YEAR": 1993,
+    "VALUE": 367988
+  },
+  {
+    "COUNTRY": "ITA",
+    "YEAR": 1994,
+    "VALUE": 360381
+  },
+  {
+    "COUNTRY": "ITA",
+    "YEAR": 1995,
+    "VALUE": 344035
+  },
+  {
+    "COUNTRY": "ITA",
+    "YEAR": 1996,
+    "VALUE": 359281
+  },
+  {
+    "COUNTRY": "ITA",
+    "YEAR": 1997,
+    "VALUE": 322373
+  },
+  {
+    "COUNTRY": "ITA",
+    "YEAR": 1998,
+    "VALUE": 304313
+  },
+  {
+    "COUNTRY": "ITA",
+    "YEAR": 1999,
+    "VALUE": 269911
+  },
+  {
+    "COUNTRY": "ITA",
+    "YEAR": 2000,
+    "VALUE": 240123
+  },
+  {
+    "COUNTRY": "ITA",
+    "YEAR": 2001,
+    "VALUE": 233986
+  },
+  {
+    "COUNTRY": "ITA",
+    "YEAR": 2002,
+    "VALUE": 223584
+  },
+  {
+    "COUNTRY": "ITA",
+    "YEAR": 2003,
+    "VALUE": 210083
+  },
+  {
+    "COUNTRY": "ITA",
+    "YEAR": 2004,
+    "VALUE": 201385
+  },
+  {
+    "COUNTRY": "ITA",
+    "YEAR": 2005,
+    "VALUE": 201667
+  },
+  {
+    "COUNTRY": "ITA",
+    "YEAR": 2006,
+    "VALUE": 198229
+  },
+  {
+    "COUNTRY": "ITA",
+    "YEAR": 2007,
+    "VALUE": 192525
+  },
+  {
+    "COUNTRY": "ITA",
+    "YEAR": 2008,
+    "VALUE": 187332
+  },
+  {
+    "COUNTRY": "ITA",
+    "YEAR": 2009,
+    "VALUE": 182285
+  },
+  {
+    "COUNTRY": "ITA",
+    "YEAR": 2010,
+    "VALUE": 179773
+  },
+  {
+    "COUNTRY": "ITA",
+    "YEAR": 2011,
+    "VALUE": 173770
+  },
+  {
+    "COUNTRY": "ITA",
+    "YEAR": 2012,
+    "VALUE": 169384
+  },
+  {
+    "COUNTRY": "ITA",
+    "YEAR": 2013,
+    "VALUE": 165384
+  },
+  {
+    "COUNTRY": "KAZ",
+    "YEAR": 1980,
+    "VALUE": 151100
+  },
+  {
+    "COUNTRY": "KAZ",
+    "YEAR": 1981,
+    "VALUE": 154785
+  },
+  {
+    "COUNTRY": "KAZ",
+    "YEAR": 1982,
+    "VALUE": 158260
+  },
+  {
+    "COUNTRY": "KAZ",
+    "YEAR": 1983,
+    "VALUE": 162845
+  },
+  {
+    "COUNTRY": "KAZ",
+    "YEAR": 1984,
+    "VALUE": 166020
+  },
+  {
+    "COUNTRY": "KAZ",
+    "YEAR": 1985,
+    "VALUE": 170565
+  },
+  {
+    "COUNTRY": "KAZ",
+    "YEAR": 1986,
+    "VALUE": 175255
+  },
+  {
+    "COUNTRY": "KAZ",
+    "YEAR": 1987,
+    "VALUE": 175390
+  },
+  {
+    "COUNTRY": "KAZ",
+    "YEAR": 1988,
+    "VALUE": 178960
+  },
+  {
+    "COUNTRY": "KAZ",
+    "YEAR": 1989,
+    "VALUE": 180045
+  },
+  {
+    "COUNTRY": "KAZ",
+    "YEAR": 1990,
+    "VALUE": 181940
+  },
+  {
+    "COUNTRY": "KAZ",
+    "YEAR": 1991,
+    "VALUE": 181126
+  },
+  {
+    "COUNTRY": "KAZ",
+    "YEAR": 1992,
+    "VALUE": 178588
+  },
+  {
+    "COUNTRY": "KAZ",
+    "YEAR": 1993,
+    "VALUE": 174801
+  },
+  {
+    "COUNTRY": "KAZ",
+    "YEAR": 1994,
+    "VALUE": 157438
+  },
+  {
+    "COUNTRY": "KAZ",
+    "YEAR": 1995,
+    "VALUE": 148870
+  },
+  {
+    "COUNTRY": "KAZ",
+    "YEAR": 1996,
+    "VALUE": 123029
+  },
+  {
+    "COUNTRY": "KAZ",
+    "YEAR": 1997,
+    "VALUE": 99178
+  },
+  {
+    "COUNTRY": "KAZ",
+    "YEAR": 1998,
+    "VALUE": 89364
+  },
+  {
+    "COUNTRY": "KAZ",
+    "YEAR": 1999,
+    "VALUE": 74657
+  },
+  {
+    "COUNTRY": "KAZ",
+    "YEAR": 2000,
+    "VALUE": 73162
+  },
+  {
+    "COUNTRY": "KAZ",
+    "YEAR": 2001,
+    "VALUE": 74029
+  },
+  {
+    "COUNTRY": "KAZ",
+    "YEAR": 2002,
+    "VALUE": 75804
+  },
+  {
+    "COUNTRY": "KAZ",
+    "YEAR": 2003,
+    "VALUE": 77399
+  },
+  {
+    "COUNTRY": "KAZ",
+    "YEAR": 2004,
+    "VALUE": 78590
+  },
+  {
+    "COUNTRY": "KAZ",
+    "YEAR": 2005,
+    "VALUE": 79418
+  },
+  {
+    "COUNTRY": "KAZ",
+    "YEAR": 2006,
+    "VALUE": 80523
+  },
+  {
+    "COUNTRY": "KAZ",
+    "YEAR": 2007,
+    "VALUE": 81702
+  },
+  {
+    "COUNTRY": "KAZ",
+    "YEAR": 2008,
+    "VALUE": 82840
+  },
+  {
+    "COUNTRY": "KAZ",
+    "YEAR": 2009,
+    "VALUE": 89078
+  },
+  {
+    "COUNTRY": "KAZ",
+    "YEAR": 2010,
+    "VALUE": 82128
+  },
+  {
+    "COUNTRY": "KAZ",
+    "YEAR": 2011,
+    "VALUE": 81741
+  },
+  {
+    "COUNTRY": "KAZ",
+    "YEAR": 2012,
+    "VALUE": 76520
+  },
+  {
+    "COUNTRY": "KAZ",
+    "YEAR": 2013,
+    "VALUE": 75590
+  },
+  {
+    "COUNTRY": "KAZ",
+    "YEAR": 2014,
+    "VALUE": 72745
+  },
+  {
+    "COUNTRY": "KGZ",
+    "YEAR": 1980,
+    "VALUE": 35275
+  },
+  {
+    "COUNTRY": "KGZ",
+    "YEAR": 1981,
+    "VALUE": 35610
+  },
+  {
+    "COUNTRY": "KGZ",
+    "YEAR": 1982,
+    "VALUE": 36310
+  },
+  {
+    "COUNTRY": "KGZ",
+    "YEAR": 1983,
+    "VALUE": 37070
+  },
+  {
+    "COUNTRY": "KGZ",
+    "YEAR": 1984,
+    "VALUE": 37680
+  },
+  {
+    "COUNTRY": "KGZ",
+    "YEAR": 1985,
+    "VALUE": 39450
+  },
+  {
+    "COUNTRY": "KGZ",
+    "YEAR": 1986,
+    "VALUE": 40085
+  },
+  {
+    "COUNTRY": "KGZ",
+    "YEAR": 1987,
+    "VALUE": 41230
+  },
+  {
+    "COUNTRY": "KGZ",
+    "YEAR": 1988,
+    "VALUE": 41175
+  },
+  {
+    "COUNTRY": "KGZ",
+    "YEAR": 1989,
+    "VALUE": 42015
+  },
+  {
+    "COUNTRY": "KGZ",
+    "YEAR": 1990,
+    "VALUE": 43000
+  },
+  {
+    "COUNTRY": "KGZ",
+    "YEAR": 1991,
+    "VALUE": 44050
+  },
+  {
+    "COUNTRY": "KGZ",
+    "YEAR": 1992,
+    "VALUE": 44589
+  },
+  {
+    "COUNTRY": "KGZ",
+    "YEAR": 1993,
+    "VALUE": 39260
+  },
+  {
+    "COUNTRY": "KGZ",
+    "YEAR": 1994,
+    "VALUE": 34712
+  },
+  {
+    "COUNTRY": "KGZ",
+    "YEAR": 1995,
+    "VALUE": 31469
+  },
+  {
+    "COUNTRY": "KGZ",
+    "YEAR": 1996,
+    "VALUE": 31593
+  },
+  {
+    "COUNTRY": "KGZ",
+    "YEAR": 1997,
+    "VALUE": 31102
+  },
+  {
+    "COUNTRY": "KGZ",
+    "YEAR": 1998,
+    "VALUE": 30406
+  },
+  {
+    "COUNTRY": "KGZ",
+    "YEAR": 1999,
+    "VALUE": 29333
+  },
+  {
+    "COUNTRY": "KGZ",
+    "YEAR": 2000,
+    "VALUE": 29927
+  },
+  {
+    "COUNTRY": "KGZ",
+    "YEAR": 2001,
+    "VALUE": 23799
+  },
+  {
+    "COUNTRY": "KGZ",
+    "YEAR": 2002,
+    "VALUE": 21121
+  },
+  {
+    "COUNTRY": "KGZ",
+    "YEAR": 2003,
+    "VALUE": 20695
+  },
+  {
+    "COUNTRY": "KGZ",
+    "YEAR": 2004,
+    "VALUE": 20205
+  },
+  {
+    "COUNTRY": "KGZ",
+    "YEAR": 2005,
+    "VALUE": 20126
+  },
+  {
+    "COUNTRY": "KGZ",
+    "YEAR": 2006,
+    "VALUE": 20156
+  },
+  {
+    "COUNTRY": "KGZ",
+    "YEAR": 2007,
+    "VALUE": 20174
+  },
+  {
+    "COUNTRY": "KGZ",
+    "YEAR": 2008,
+    "VALUE": 20288
+  },
+  {
+    "COUNTRY": "KGZ",
+    "YEAR": 2009,
+    "VALUE": 20355
+  },
+  {
+    "COUNTRY": "KGZ",
+    "YEAR": 2010,
+    "VALUE": 20342
+  },
+  {
+    "COUNTRY": "KGZ",
+    "YEAR": 2011,
+    "VALUE": 20426
+  },
+  {
+    "COUNTRY": "KGZ",
+    "YEAR": 2012,
+    "VALUE": 20512
+  },
+  {
+    "COUNTRY": "KGZ",
+    "YEAR": 2013,
+    "VALUE": 20629
+  },
+  {
+    "COUNTRY": "KGZ",
+    "YEAR": 2014,
+    "VALUE": 20678
+  },
+  {
+    "COUNTRY": "LTU",
+    "YEAR": 1992,
+    "VALUE": 42069
+  },
+  {
+    "COUNTRY": "LTU",
+    "YEAR": 1993,
+    "VALUE": 41204
+  },
+  {
+    "COUNTRY": "LTU",
+    "YEAR": 1994,
+    "VALUE": 38402
+  },
+  {
+    "COUNTRY": "LTU",
+    "YEAR": 1995,
+    "VALUE": 37255
+  },
+  {
+    "COUNTRY": "LTU",
+    "YEAR": 1996,
+    "VALUE": 35858
+  },
+  {
+    "COUNTRY": "LTU",
+    "YEAR": 1997,
+    "VALUE": 32093
+  },
+  {
+    "COUNTRY": "LTU",
+    "YEAR": 1998,
+    "VALUE": 29202
+  },
+  {
+    "COUNTRY": "LTU",
+    "YEAR": 1999,
+    "VALUE": 28282
+  },
+  {
+    "COUNTRY": "LTU",
+    "YEAR": 2000,
+    "VALUE": 27575
+  },
+  {
+    "COUNTRY": "LTU",
+    "YEAR": 2001,
+    "VALUE": 26078
+  },
+  {
+    "COUNTRY": "LTU",
+    "YEAR": 2002,
+    "VALUE": 24759
+  },
+  {
+    "COUNTRY": "LTU",
+    "YEAR": 2003,
+    "VALUE": 23791
+  },
+  {
+    "COUNTRY": "LTU",
+    "YEAR": 2004,
+    "VALUE": 22711
+  },
+  {
+    "COUNTRY": "LTU",
+    "YEAR": 2005,
+    "VALUE": 21552
+  },
+  {
+    "COUNTRY": "LTU",
+    "YEAR": 2006,
+    "VALUE": 20774
+  },
+  {
+    "COUNTRY": "LTU",
+    "YEAR": 2007,
+    "VALUE": 20634
+  },
+  {
+    "COUNTRY": "LTU",
+    "YEAR": 2008,
+    "VALUE": 20389
+  },
+  {
+    "COUNTRY": "LTU",
+    "YEAR": 2009,
+    "VALUE": 20156
+  },
+  {
+    "COUNTRY": "LTU",
+    "YEAR": 2010,
+    "VALUE": 19650
+  },
+  {
+    "COUNTRY": "LTU",
+    "YEAR": 2011,
+    "VALUE": 19607
+  },
+  {
+    "COUNTRY": "LTU",
+    "YEAR": 2012,
+    "VALUE": 19354
+  },
+  {
+    "COUNTRY": "LTU",
+    "YEAR": 2013,
+    "VALUE": 18918
+  },
+  {
+    "COUNTRY": "LTU",
+    "YEAR": 2014,
+    "VALUE": 18504
+  },
+  {
+    "COUNTRY": "LUX",
+    "YEAR": 2004,
+    "VALUE": 2301
+  },
+  {
+    "COUNTRY": "LUX",
+    "YEAR": 2005,
+    "VALUE": 2112
+  },
+  {
+    "COUNTRY": "LUX",
+    "YEAR": 2006,
+    "VALUE": 2112
+  },
+  {
+    "COUNTRY": "LUX",
+    "YEAR": 2007,
+    "VALUE": 2112
+  },
+  {
+    "COUNTRY": "LUX",
+    "YEAR": 2008,
+    "VALUE": 2112
+  },
+  {
+    "COUNTRY": "LUX",
+    "YEAR": 2009,
+    "VALUE": 2098
+  },
+  {
+    "COUNTRY": "LUX",
+    "YEAR": 2010,
+    "VALUE": 2098
+  },
+  {
+    "COUNTRY": "LUX",
+    "YEAR": 2011,
+    "VALUE": 2105
+  },
+  {
+    "COUNTRY": "LUX",
+    "YEAR": 2012,
+    "VALUE": 2101
+  },
+  {
+    "COUNTRY": "LUX",
+    "YEAR": 2013,
+    "VALUE": 2332
+  },
+  {
+    "COUNTRY": "LUX",
+    "YEAR": 2014,
+    "VALUE": 2332
+  },
+  {
+    "COUNTRY": "LUX",
+    "YEAR": 2015,
+    "VALUE": 2332
+  },
+  {
+    "COUNTRY": "LVA",
+    "YEAR": 1980,
+    "VALUE": 29725
+  },
+  {
+    "COUNTRY": "LVA",
+    "YEAR": 1985,
+    "VALUE": 29865
+  },
+  {
+    "COUNTRY": "LVA",
+    "YEAR": 1986,
+    "VALUE": 31430
+  },
+  {
+    "COUNTRY": "LVA",
+    "YEAR": 1987,
+    "VALUE": 31930
+  },
+  {
+    "COUNTRY": "LVA",
+    "YEAR": 1988,
+    "VALUE": 31920
+  },
+  {
+    "COUNTRY": "LVA",
+    "YEAR": 1989,
+    "VALUE": 26591
+  },
+  {
+    "COUNTRY": "LVA",
+    "YEAR": 1990,
+    "VALUE": 26556
+  },
+  {
+    "COUNTRY": "LVA",
+    "YEAR": 1991,
+    "VALUE": 27008
+  },
+  {
+    "COUNTRY": "LVA",
+    "YEAR": 1992,
+    "VALUE": 25583
+  },
+  {
+    "COUNTRY": "LVA",
+    "YEAR": 1993,
+    "VALUE": 24108
+  },
+  {
+    "COUNTRY": "LVA",
+    "YEAR": 1994,
+    "VALUE": 23090
+  },
+  {
+    "COUNTRY": "LVA",
+    "YEAR": 1995,
+    "VALUE": 20677
+  },
+  {
+    "COUNTRY": "LVA",
+    "YEAR": 1996,
+    "VALUE": 18073
+  },
+  {
+    "COUNTRY": "LVA",
+    "YEAR": 1997,
+    "VALUE": 16914
+  },
+  {
+    "COUNTRY": "LVA",
+    "YEAR": 1998,
+    "VALUE": 16152
+  },
+  {
+    "COUNTRY": "LVA",
+    "YEAR": 1999,
+    "VALUE": 15435
+  },
+  {
+    "COUNTRY": "LVA",
+    "YEAR": 2000,
+    "VALUE": 14481
+  },
+  {
+    "COUNTRY": "LVA",
+    "YEAR": 2001,
+    "VALUE": 13509
+  },
+  {
+    "COUNTRY": "LVA",
+    "YEAR": 2002,
+    "VALUE": 12758
+  },
+  {
+    "COUNTRY": "LVA",
+    "YEAR": 2003,
+    "VALUE": 12630
+  },
+  {
+    "COUNTRY": "LVA",
+    "YEAR": 2004,
+    "VALUE": 12353
+  },
+  {
+    "COUNTRY": "LVA",
+    "YEAR": 2005,
+    "VALUE": 12070
+  },
+  {
+    "COUNTRY": "LVA",
+    "YEAR": 2006,
+    "VALUE": 11832
+  },
+  {
+    "COUNTRY": "LVA",
+    "YEAR": 2007,
+    "VALUE": 11674
+  },
+  {
+    "COUNTRY": "LVA",
+    "YEAR": 2008,
+    "VALUE": 11489
+  },
+  {
+    "COUNTRY": "LVA",
+    "YEAR": 2009,
+    "VALUE": 9640
+  },
+  {
+    "COUNTRY": "LVA",
+    "YEAR": 2010,
+    "VALUE": 7433
+  },
+  {
+    "COUNTRY": "LVA",
+    "YEAR": 2011,
+    "VALUE": 7369
+  },
+  {
+    "COUNTRY": "LVA",
+    "YEAR": 2012,
+    "VALUE": 7242
+  },
+  {
+    "COUNTRY": "LVA",
+    "YEAR": 2013,
+    "VALUE": 7053
+  },
+  {
+    "COUNTRY": "LVA",
+    "YEAR": 2014,
+    "VALUE": 6748
+  },
+  {
+    "COUNTRY": "MCO",
+    "YEAR": 1995,
+    "VALUE": 435
+  },
+  {
+    "COUNTRY": "MCO",
+    "YEAR": 2006,
+    "VALUE": 304
+  },
+  {
+    "COUNTRY": "MCO",
+    "YEAR": 2007,
+    "VALUE": 300
+  },
+  {
+    "COUNTRY": "MCO",
+    "YEAR": 2008,
+    "VALUE": 300
+  },
+  {
+    "COUNTRY": "MCO",
+    "YEAR": 2009,
+    "VALUE": 306
+  },
+  {
+    "COUNTRY": "MCO",
+    "YEAR": 2010,
+    "VALUE": 306
+  },
+  {
+    "COUNTRY": "MCO",
+    "YEAR": 2011,
+    "VALUE": 401
+  },
+  {
+    "COUNTRY": "MCO",
+    "YEAR": 2012,
+    "VALUE": 306
+  },
+  {
+    "COUNTRY": "MCO",
+    "YEAR": 2013,
+    "VALUE": 421
+  },
+  {
+    "COUNTRY": "MCO",
+    "YEAR": 2014,
+    "VALUE": 421
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 1960,
+    "VALUE": 17440
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 1965,
+    "VALUE": 21535
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 1970,
+    "VALUE": 27655
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 1971,
+    "VALUE": 28425
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 1972,
+    "VALUE": 29250
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 1974,
+    "VALUE": 31010
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 1975,
+    "VALUE": 32745
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 1980,
+    "VALUE": 37835
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 1981,
+    "VALUE": 38685
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 1982,
+    "VALUE": 39060
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 1983,
+    "VALUE": 39670
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 1984,
+    "VALUE": 40430
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 1985,
+    "VALUE": 41640
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 1986,
+    "VALUE": 42975
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 1987,
+    "VALUE": 44020
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 1988,
+    "VALUE": 45000
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 1989,
+    "VALUE": 45295
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 1990,
+    "VALUE": 47507
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 1991,
+    "VALUE": 47772
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 1992,
+    "VALUE": 46823
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 1993,
+    "VALUE": 45995
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 1994,
+    "VALUE": 45080
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 1995,
+    "VALUE": 44948
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 1996,
+    "VALUE": 44479
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 1997,
+    "VALUE": 42233
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 1998,
+    "VALUE": 40254
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 1999,
+    "VALUE": 22622
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 2000,
+    "VALUE": 20855
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 2001,
+    "VALUE": 20110
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 2002,
+    "VALUE": 19703
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 2003,
+    "VALUE": 19251
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 2004,
+    "VALUE": 18653
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 2005,
+    "VALUE": 18393
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 2006,
+    "VALUE": 18000
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 2007,
+    "VALUE": 17567
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 2008,
+    "VALUE": 17403
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 2009,
+    "VALUE": 17468
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 2010,
+    "VALUE": 17531
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 2011,
+    "VALUE": 17504
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 2012,
+    "VALUE": 17556
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 2013,
+    "VALUE": 16762
+  },
+  {
+    "COUNTRY": "MDA",
+    "YEAR": 2014,
+    "VALUE": 16168
+  },
+  {
+    "COUNTRY": "MKD",
+    "YEAR": 1980,
+    "VALUE": 6512
+  },
+  {
+    "COUNTRY": "MKD",
+    "YEAR": 1985,
+    "VALUE": 6815
+  },
+  {
+    "COUNTRY": "MKD",
+    "YEAR": 1986,
+    "VALUE": 6882
+  },
+  {
+    "COUNTRY": "MKD",
+    "YEAR": 1987,
+    "VALUE": 6875
+  },
+  {
+    "COUNTRY": "MKD",
+    "YEAR": 1988,
+    "VALUE": 7008
+  },
+  {
+    "COUNTRY": "MKD",
+    "YEAR": 1989,
+    "VALUE": 7232
+  },
+  {
+    "COUNTRY": "MKD",
+    "YEAR": 1990,
+    "VALUE": 7155
+  },
+  {
+    "COUNTRY": "MKD",
+    "YEAR": 1991,
+    "VALUE": 7096
+  },
+  {
+    "COUNTRY": "MKD",
+    "YEAR": 1992,
+    "VALUE": 6975
+  },
+  {
+    "COUNTRY": "MKD",
+    "YEAR": 1993,
+    "VALUE": 6997
+  },
+  {
+    "COUNTRY": "MKD",
+    "YEAR": 1994,
+    "VALUE": 6971
+  },
+  {
+    "COUNTRY": "MKD",
+    "YEAR": 1995,
+    "VALUE": 6932
+  },
+  {
+    "COUNTRY": "MKD",
+    "YEAR": 1996,
+    "VALUE": 6760
+  },
+  {
+    "COUNTRY": "MKD",
+    "YEAR": 1997,
+    "VALUE": 6817
+  },
+  {
+    "COUNTRY": "MKD",
+    "YEAR": 1998,
+    "VALUE": 6722
+  },
+  {
+    "COUNTRY": "MKD",
+    "YEAR": 1999,
+    "VALUE": 6677
+  },
+  {
+    "COUNTRY": "MKD",
+    "YEAR": 2000,
+    "VALUE": 6667
+  },
+  {
+    "COUNTRY": "MKD",
+    "YEAR": 2001,
+    "VALUE": 6591
+  },
+  {
+    "COUNTRY": "MKD",
+    "YEAR": 2002,
+    "VALUE": 6463
+  },
+  {
+    "COUNTRY": "MKD",
+    "YEAR": 2003,
+    "VALUE": 6437
+  },
+  {
+    "COUNTRY": "MKD",
+    "YEAR": 2004,
+    "VALUE": 6453
+  },
+  {
+    "COUNTRY": "MKD",
+    "YEAR": 2005,
+    "VALUE": 6363
+  },
+  {
+    "COUNTRY": "MKD",
+    "YEAR": 2006,
+    "VALUE": 6505
+  },
+  {
+    "COUNTRY": "MKD",
+    "YEAR": 2007,
+    "VALUE": 6275
+  },
+  {
+    "COUNTRY": "MKD",
+    "YEAR": 2008,
+    "VALUE": 6253
+  },
+  {
+    "COUNTRY": "MKD",
+    "YEAR": 2009,
+    "VALUE": 6200
+  },
+  {
+    "COUNTRY": "MKD",
+    "YEAR": 2010,
+    "VALUE": 6464
+  },
+  {
+    "COUNTRY": "MKD",
+    "YEAR": 2011,
+    "VALUE": 6300
+  },
+  {
+    "COUNTRY": "MKD",
+    "YEAR": 2012,
+    "VALUE": 6203
+  },
+  {
+    "COUNTRY": "MKD",
+    "YEAR": 2013,
+    "VALUE": 6252
+  },
+  {
+    "COUNTRY": "MLT",
+    "YEAR": 1997,
+    "VALUE": 1450
+  },
+  {
+    "COUNTRY": "MLT",
+    "YEAR": 1998,
+    "VALUE": 1453
+  },
+  {
+    "COUNTRY": "MLT",
+    "YEAR": 1999,
+    "VALUE": 1448
+  },
+  {
+    "COUNTRY": "MLT",
+    "YEAR": 2000,
+    "VALUE": 1447
+  },
+  {
+    "COUNTRY": "MLT",
+    "YEAR": 2001,
+    "VALUE": 1387
+  },
+  {
+    "COUNTRY": "MLT",
+    "YEAR": 2002,
+    "VALUE": 1381
+  },
+  {
+    "COUNTRY": "MLT",
+    "YEAR": 2003,
+    "VALUE": 1354
+  },
+  {
+    "COUNTRY": "MLT",
+    "YEAR": 2004,
+    "VALUE": 1201
+  },
+  {
+    "COUNTRY": "MLT",
+    "YEAR": 2005,
+    "VALUE": 1129
+  },
+  {
+    "COUNTRY": "MLT",
+    "YEAR": 2006,
+    "VALUE": 1155
+  },
+  {
+    "COUNTRY": "MLT",
+    "YEAR": 2007,
+    "VALUE": 1102
+  },
+  {
+    "COUNTRY": "MLT",
+    "YEAR": 2008,
+    "VALUE": 1141
+  },
+  {
+    "COUNTRY": "MLT",
+    "YEAR": 2009,
+    "VALUE": 1122
+  },
+  {
+    "COUNTRY": "MLT",
+    "YEAR": 2010,
+    "VALUE": 1119
+  },
+  {
+    "COUNTRY": "MLT",
+    "YEAR": 2011,
+    "VALUE": 1006
+  },
+  {
+    "COUNTRY": "MLT",
+    "YEAR": 2012,
+    "VALUE": 1047
+  },
+  {
+    "COUNTRY": "MLT",
+    "YEAR": 2013,
+    "VALUE": 1080
+  },
+  {
+    "COUNTRY": "MLT",
+    "YEAR": 2014,
+    "VALUE": 1353
+  },
+  {
+    "COUNTRY": "MLT",
+    "YEAR": 2015,
+    "VALUE": 1400
+  },
+  {
+    "COUNTRY": "MNE",
+    "YEAR": 1990,
+    "VALUE": 3207
+  },
+  {
+    "COUNTRY": "MNE",
+    "YEAR": 1991,
+    "VALUE": 3065
+  },
+  {
+    "COUNTRY": "MNE",
+    "YEAR": 1992,
+    "VALUE": 2606
+  },
+  {
+    "COUNTRY": "MNE",
+    "YEAR": 1993,
+    "VALUE": 2592
+  },
+  {
+    "COUNTRY": "MNE",
+    "YEAR": 1994,
+    "VALUE": 2561
+  },
+  {
+    "COUNTRY": "MNE",
+    "YEAR": 1995,
+    "VALUE": 2564
+  },
+  {
+    "COUNTRY": "MNE",
+    "YEAR": 1996,
+    "VALUE": 2607
+  },
+  {
+    "COUNTRY": "MNE",
+    "YEAR": 1997,
+    "VALUE": 2622
+  },
+  {
+    "COUNTRY": "MNE",
+    "YEAR": 1998,
+    "VALUE": 2604
+  },
+  {
+    "COUNTRY": "MNE",
+    "YEAR": 1999,
+    "VALUE": 2608
+  },
+  {
+    "COUNTRY": "MNE",
+    "YEAR": 2000,
+    "VALUE": 2616
+  },
+  {
+    "COUNTRY": "MNE",
+    "YEAR": 2001,
+    "VALUE": 2634
+  },
+  {
+    "COUNTRY": "MNE",
+    "YEAR": 2002,
+    "VALUE": 2599
+  },
+  {
+    "COUNTRY": "MNE",
+    "YEAR": 2003,
+    "VALUE": 2620
+  },
+  {
+    "COUNTRY": "MNE",
+    "YEAR": 2004,
+    "VALUE": 2622
+  },
+  {
+    "COUNTRY": "MNE",
+    "YEAR": 2005,
+    "VALUE": 2608
+  },
+  {
+    "COUNTRY": "MNE",
+    "YEAR": 2006,
+    "VALUE": 2586
+  },
+  {
+    "COUNTRY": "MNE",
+    "YEAR": 2007,
+    "VALUE": 2491
+  },
+  {
+    "COUNTRY": "MNE",
+    "YEAR": 2008,
+    "VALUE": 2422
+  },
+  {
+    "COUNTRY": "MNE",
+    "YEAR": 2009,
+    "VALUE": 2437
+  },
+  {
+    "COUNTRY": "MNE",
+    "YEAR": 2010,
+    "VALUE": 2466
+  },
+  {
+    "COUNTRY": "MNE",
+    "YEAR": 2011,
+    "VALUE": 2466
+  },
+  {
+    "COUNTRY": "MNE",
+    "YEAR": 2012,
+    "VALUE": 2466
+  },
+  {
+    "COUNTRY": "MNE",
+    "YEAR": 2013,
+    "VALUE": 2416
+  },
+  {
+    "COUNTRY": "MNE",
+    "YEAR": 2014,
+    "VALUE": 2446
+  },
+  {
+    "COUNTRY": "NLD",
+    "YEAR": 1990,
+    "VALUE": 55815
+  },
+  {
+    "COUNTRY": "NLD",
+    "YEAR": 1991,
+    "VALUE": 55182
+  },
+  {
+    "COUNTRY": "NLD",
+    "YEAR": 1992,
+    "VALUE": 55072
+  },
+  {
+    "COUNTRY": "NLD",
+    "YEAR": 1993,
+    "VALUE": 54279
+  },
+  {
+    "COUNTRY": "NLD",
+    "YEAR": 1994,
+    "VALUE": 52057
+  },
+  {
+    "COUNTRY": "NLD",
+    "YEAR": 1995,
+    "VALUE": 51158
+  },
+  {
+    "COUNTRY": "NLD",
+    "YEAR": 1996,
+    "VALUE": 50497
+  },
+  {
+    "COUNTRY": "NLD",
+    "YEAR": 1997,
+    "VALUE": 50657
+  },
+  {
+    "COUNTRY": "NLD",
+    "YEAR": 1998,
+    "VALUE": 50623
+  },
+  {
+    "COUNTRY": "NLD",
+    "YEAR": 1999,
+    "VALUE": 50100
+  },
+  {
+    "COUNTRY": "NLD",
+    "YEAR": 2000,
+    "VALUE": 48627
+  },
+  {
+    "COUNTRY": "NLD",
+    "YEAR": 2001,
+    "VALUE": 46714
+  },
+  {
+    "COUNTRY": "NLD",
+    "YEAR": 2002,
+    "VALUE": 47961
+  },
+  {
+    "COUNTRY": "NLD",
+    "YEAR": 2003,
+    "VALUE": 47327
+  },
+  {
+    "COUNTRY": "NLD",
+    "YEAR": 2004,
+    "VALUE": 47435
+  },
+  {
+    "COUNTRY": "NLD",
+    "YEAR": 2005,
+    "VALUE": 46713
+  },
+  {
+    "COUNTRY": "NLD",
+    "YEAR": 2006,
+    "VALUE": 52060
+  },
+  {
+    "COUNTRY": "NLD",
+    "YEAR": 2007,
+    "VALUE": 52010
+  },
+  {
+    "COUNTRY": "NLD",
+    "YEAR": 2008,
+    "VALUE": 50970
+  },
+  {
+    "COUNTRY": "NLD",
+    "YEAR": 2009,
+    "VALUE": 50640
+  },
+  {
+    "COUNTRY": "NLD",
+    "YEAR": 2010,
+    "VALUE": 54161
+  },
+  {
+    "COUNTRY": "NLD",
+    "YEAR": 2011,
+    "VALUE": 55750
+  },
+  {
+    "COUNTRY": "NLD",
+    "YEAR": 2012,
+    "VALUE": 55690
+  },
+  {
+    "COUNTRY": "NOR",
+    "YEAR": 1980,
+    "VALUE": 29716
+  },
+  {
+    "COUNTRY": "NOR",
+    "YEAR": 1985,
+    "VALUE": 24776
+  },
+  {
+    "COUNTRY": "NOR",
+    "YEAR": 1986,
+    "VALUE": 24446
+  },
+  {
+    "COUNTRY": "NOR",
+    "YEAR": 1987,
+    "VALUE": 24065
+  },
+  {
+    "COUNTRY": "NOR",
+    "YEAR": 1988,
+    "VALUE": 22743
+  },
+  {
+    "COUNTRY": "NOR",
+    "YEAR": 1989,
+    "VALUE": 20953
+  },
+  {
+    "COUNTRY": "NOR",
+    "YEAR": 1990,
+    "VALUE": 19802
+  },
+  {
+    "COUNTRY": "NOR",
+    "YEAR": 1991,
+    "VALUE": 18518
+  },
+  {
+    "COUNTRY": "NOR",
+    "YEAR": 1992,
+    "VALUE": 18033
+  },
+  {
+    "COUNTRY": "NOR",
+    "YEAR": 1993,
+    "VALUE": 17753
+  },
+  {
+    "COUNTRY": "NOR",
+    "YEAR": 1994,
+    "VALUE": 17709
+  },
+  {
+    "COUNTRY": "NOR",
+    "YEAR": 1995,
+    "VALUE": 17508
+  },
+  {
+    "COUNTRY": "NOR",
+    "YEAR": 1996,
+    "VALUE": 17390
+  },
+  {
+    "COUNTRY": "NOR",
+    "YEAR": 1997,
+    "VALUE": 17383
+  },
+  {
+    "COUNTRY": "NOR",
+    "YEAR": 1998,
+    "VALUE": 17351
+  },
+  {
+    "COUNTRY": "NOR",
+    "YEAR": 1999,
+    "VALUE": 17344
+  },
+  {
+    "COUNTRY": "NOR",
+    "YEAR": 2000,
+    "VALUE": 17052
+  },
+  {
+    "COUNTRY": "NOR",
+    "YEAR": 2001,
+    "VALUE": 17227
+  },
+  {
+    "COUNTRY": "NOR",
+    "YEAR": 2002,
+    "VALUE": 19912
+  },
+  {
+    "COUNTRY": "NOR",
+    "YEAR": 2003,
+    "VALUE": 19841
+  },
+  {
+    "COUNTRY": "NOR",
+    "YEAR": 2004,
+    "VALUE": 21218
+  },
+  {
+    "COUNTRY": "NOR",
+    "YEAR": 2005,
+    "VALUE": 21163
+  },
+  {
+    "COUNTRY": "NOR",
+    "YEAR": 2006,
+    "VALUE": 20992
+  },
+  {
+    "COUNTRY": "NOR",
+    "YEAR": 2007,
+    "VALUE": 20514
+  },
+  {
+    "COUNTRY": "NOR",
+    "YEAR": 2008,
+    "VALUE": 19656
+  },
+  {
+    "COUNTRY": "NOR",
+    "YEAR": 2009,
+    "VALUE": 19300
+  },
+  {
+    "COUNTRY": "NOR",
+    "YEAR": 2010,
+    "VALUE": 18636
+  },
+  {
+    "COUNTRY": "NOR",
+    "YEAR": 2011,
+    "VALUE": 18748
+  },
+  {
+    "COUNTRY": "NOR",
+    "YEAR": 2012,
+    "VALUE": 17814
+  },
+  {
+    "COUNTRY": "NOR",
+    "YEAR": 2013,
+    "VALUE": 17525
+  },
+  {
+    "COUNTRY": "NOR",
+    "YEAR": 2014,
+    "VALUE": 17633
+  },
+  {
+    "COUNTRY": "",
+    "YEAR": 2007,
+    "VALUE": 83905
+  },
+  {
+    "COUNTRY": "",
+    "YEAR": 2008,
+    "VALUE": 82005
+  },
+  {
+    "COUNTRY": "",
+    "YEAR": 2009,
+    "VALUE": 80863
+  },
+  {
+    "COUNTRY": "",
+    "YEAR": 2010,
+    "VALUE": 80154
+  },
+  {
+    "COUNTRY": "",
+    "YEAR": 2011,
+    "VALUE": 77924
+  },
+  {
+    "COUNTRY": "",
+    "YEAR": 2012,
+    "VALUE": 76245
+  },
+  {
+    "COUNTRY": "",
+    "YEAR": 2013,
+    "VALUE": 75239
+  },
+  {
+    "COUNTRY": "",
+    "YEAR": 2014,
+    "VALUE": 72891
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 1960,
+    "VALUE": 135008
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 1961,
+    "VALUE": 139357
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 1962,
+    "VALUE": 143360
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 1963,
+    "VALUE": 147491
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 1964,
+    "VALUE": 151535
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 1965,
+    "VALUE": 154410
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 1966,
+    "VALUE": 159733
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 1967,
+    "VALUE": 162224
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 1968,
+    "VALUE": 164762
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 1969,
+    "VALUE": 167362
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 1970,
+    "VALUE": 167362
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 1980,
+    "VALUE": 198158
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 1985,
+    "VALUE": 210549
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 1986,
+    "VALUE": 211501
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 1987,
+    "VALUE": 213477
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 1988,
+    "VALUE": 231847
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 1989,
+    "VALUE": 230185
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 1990,
+    "VALUE": 241169
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 1991,
+    "VALUE": 240998
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 1992,
+    "VALUE": 238070
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 1993,
+    "VALUE": 224644
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 1994,
+    "VALUE": 223900
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 1995,
+    "VALUE": 222360
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 1996,
+    "VALUE": 221431
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 1997,
+    "VALUE": 217903
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 1998,
+    "VALUE": 213732
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 1999,
+    "VALUE": 204935
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 2000,
+    "VALUE": 197080
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 2001,
+    "VALUE": 193811
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 2002,
+    "VALUE": 187074
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 2003,
+    "VALUE": 185763
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 2004,
+    "VALUE": 182734
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 2005,
+    "VALUE": 178945
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 2006,
+    "VALUE": 177441
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 2007,
+    "VALUE": 175956
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 2008,
+    "VALUE": 168179
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 2009,
+    "VALUE": 167347
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 2010,
+    "VALUE": 189587
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 2011,
+    "VALUE": 188545
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 2012,
+    "VALUE": 188696
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 2013,
+    "VALUE": 188082
+  },
+  {
+    "COUNTRY": "POL",
+    "YEAR": 2014,
+    "VALUE": 188342
+  },
+  {
+    "COUNTRY": "PRT",
+    "YEAR": 1999,
+    "VALUE": 37730
+  },
+  {
+    "COUNTRY": "PRT",
+    "YEAR": 2000,
+    "VALUE": 37681
+  },
+  {
+    "COUNTRY": "PRT",
+    "YEAR": 2001,
+    "VALUE": 37200
+  },
+  {
+    "COUNTRY": "PRT",
+    "YEAR": 2002,
+    "VALUE": 36589
+  },
+  {
+    "COUNTRY": "PRT",
+    "YEAR": 2003,
+    "VALUE": 36869
+  },
+  {
+    "COUNTRY": "PRT",
+    "YEAR": 2004,
+    "VALUE": 37017
+  },
+  {
+    "COUNTRY": "PRT",
+    "YEAR": 2005,
+    "VALUE": 36622
+  },
+  {
+    "COUNTRY": "PRT",
+    "YEAR": 2006,
+    "VALUE": 35927
+  },
+  {
+    "COUNTRY": "PRT",
+    "YEAR": 2007,
+    "VALUE": 35417
+  },
+  {
+    "COUNTRY": "PRT",
+    "YEAR": 2008,
+    "VALUE": 35126
+  },
+  {
+    "COUNTRY": "PRT",
+    "YEAR": 2009,
+    "VALUE": 34902
+  },
+  {
+    "COUNTRY": "PRT",
+    "YEAR": 2010,
+    "VALUE": 34787
+  },
+  {
+    "COUNTRY": "PRT",
+    "YEAR": 2011,
+    "VALUE": 34862
+  },
+  {
+    "COUNTRY": "PRT",
+    "YEAR": 2012,
+    "VALUE": 35125
+  },
+  {
+    "COUNTRY": "PRT",
+    "YEAR": 2013,
+    "VALUE": 34679
+  },
+  {
+    "COUNTRY": "PRT",
+    "YEAR": 2014,
+    "VALUE": 33821
+  },
+  {
+    "COUNTRY": "ROU",
+    "YEAR": 1980,
+    "VALUE": 156227
+  },
+  {
+    "COUNTRY": "ROU",
+    "YEAR": 1985,
+    "VALUE": 161021
+  },
+  {
+    "COUNTRY": "ROU",
+    "YEAR": 1986,
+    "VALUE": 161930
+  },
+  {
+    "COUNTRY": "ROU",
+    "YEAR": 1987,
+    "VALUE": 161224
+  },
+  {
+    "COUNTRY": "ROU",
+    "YEAR": 1988,
+    "VALUE": 161884
+  },
+  {
+    "COUNTRY": "ROU",
+    "YEAR": 1989,
+    "VALUE": 162122
+  },
+  {
+    "COUNTRY": "ROU",
+    "YEAR": 1990,
+    "VALUE": 161637
+  },
+  {
+    "COUNTRY": "ROU",
+    "YEAR": 1991,
+    "VALUE": 161333
+  },
+  {
+    "COUNTRY": "ROU",
+    "YEAR": 1992,
+    "VALUE": 134620
+  },
+  {
+    "COUNTRY": "ROU",
+    "YEAR": 1993,
+    "VALUE": 130354
+  },
+  {
+    "COUNTRY": "ROU",
+    "YEAR": 1994,
+    "VALUE": 127614
+  },
+  {
+    "COUNTRY": "ROU",
+    "YEAR": 1995,
+    "VALUE": 125974
+  },
+  {
+    "COUNTRY": "ROU",
+    "YEAR": 1996,
+    "VALUE": 123308
+  },
+  {
+    "COUNTRY": "ROU",
+    "YEAR": 1997,
+    "VALUE": 118318
+  },
+  {
+    "COUNTRY": "ROU",
+    "YEAR": 1998,
+    "VALUE": 118093
+  },
+  {
+    "COUNTRY": "ROU",
+    "YEAR": 1999,
+    "VALUE": 116766
+  },
+  {
+    "COUNTRY": "ROU",
+    "YEAR": 2000,
+    "VALUE": 120649
+  },
+  {
+    "COUNTRY": "ROU",
+    "YEAR": 2001,
+    "VALUE": 121317
+  },
+  {
+    "COUNTRY": "ROU",
+    "YEAR": 2002,
+    "VALUE": 115104
+  },
+  {
+    "COUNTRY": "ROU",
+    "YEAR": 2003,
+    "VALUE": 98192
+  },
+  {
+    "COUNTRY": "ROU",
+    "YEAR": 2004,
+    "VALUE": 96057
+  },
+  {
+    "COUNTRY": "ROU",
+    "YEAR": 2005,
+    "VALUE": 98603
+  },
+  {
+    "COUNTRY": "ROU",
+    "YEAR": 2006,
+    "VALUE": 98461
+  },
+  {
+    "COUNTRY": "ROU",
+    "YEAR": 2007,
+    "VALUE": 96463
+  },
+  {
+    "COUNTRY": "ROU",
+    "YEAR": 2008,
+    "VALUE": 96912
+  },
+  {
+    "COUNTRY": "ROU",
+    "YEAR": 2009,
+    "VALUE": 99266
+  },
+  {
+    "COUNTRY": "ROU",
+    "YEAR": 2010,
+    "VALUE": 92777
+  },
+  {
+    "COUNTRY": "ROU",
+    "YEAR": 2011,
+    "VALUE": 88239
+  },
+  {
+    "COUNTRY": "ROU",
+    "YEAR": 2012,
+    "VALUE": 88625
+  },
+  {
+    "COUNTRY": "ROU",
+    "YEAR": 2013,
+    "VALUE": 90024
+  },
+  {
+    "COUNTRY": "RUS",
+    "YEAR": 1986,
+    "VALUE": 1507388
+  },
+  {
+    "COUNTRY": "RUS",
+    "YEAR": 1992,
+    "VALUE": 1525080
+  },
+  {
+    "COUNTRY": "RUS",
+    "YEAR": 1993,
+    "VALUE": 1499780
+  },
+  {
+    "COUNTRY": "RUS",
+    "YEAR": 1994,
+    "VALUE": 1465580
+  },
+  {
+    "COUNTRY": "RUS",
+    "YEAR": 1995,
+    "VALUE": 1452118
+  },
+  {
+    "COUNTRY": "RUS",
+    "YEAR": 1996,
+    "VALUE": 1414910
+  },
+  {
+    "COUNTRY": "RUS",
+    "YEAR": 1997,
+    "VALUE": 1366251
+  },
+  {
+    "COUNTRY": "RUS",
+    "YEAR": 1998,
+    "VALUE": 1316862
+  },
+  {
+    "COUNTRY": "RUS",
+    "YEAR": 1999,
+    "VALUE": 1272597
+  },
+  {
+    "COUNTRY": "RUS",
+    "YEAR": 2000,
+    "VALUE": 1276862
+  },
+  {
+    "COUNTRY": "RUS",
+    "YEAR": 2001,
+    "VALUE": 1212351
+  },
+  {
+    "COUNTRY": "RUS",
+    "YEAR": 2002,
+    "VALUE": 1169053
+  },
+  {
+    "COUNTRY": "RUS",
+    "YEAR": 2003,
+    "VALUE": 1141995
+  },
+  {
+    "COUNTRY": "RUS",
+    "YEAR": 2004,
+    "VALUE": 1141046
+  },
+  {
+    "COUNTRY": "RUS",
+    "YEAR": 2005,
+    "VALUE": 1116066
+  },
+  {
+    "COUNTRY": "RUS",
+    "YEAR": 2006,
+    "VALUE": 1098162
+  },
+  {
+    "COUNTRY": "RUS",
+    "YEAR": 2007,
+    "VALUE": 1077638
+  },
+  {
+    "COUNTRY": "RUS",
+    "YEAR": 2008,
+    "VALUE": 1040245
+  },
+  {
+    "COUNTRY": "RUS",
+    "YEAR": 2009,
+    "VALUE": 1013206
+  },
+  {
+    "COUNTRY": "RUS",
+    "YEAR": 2010,
+    "VALUE": 988878
+  },
+  {
+    "COUNTRY": "RUS",
+    "YEAR": 2011,
+    "VALUE": 967487
+  },
+  {
+    "COUNTRY": "RUS",
+    "YEAR": 2012,
+    "VALUE": 945853
+  },
+  {
+    "COUNTRY": "RUS",
+    "YEAR": 2013,
+    "VALUE": 915124
+  },
+  {
+    "COUNTRY": "SRB",
+    "YEAR": 2006,
+    "VALUE": 34452
+  },
+  {
+    "COUNTRY": "SRB",
+    "YEAR": 2007,
+    "VALUE": 32967
+  },
+  {
+    "COUNTRY": "SRB",
+    "YEAR": 2008,
+    "VALUE": 32485
+  },
+  {
+    "COUNTRY": "SRB",
+    "YEAR": 2009,
+    "VALUE": 32567
+  },
+  {
+    "COUNTRY": "SRB",
+    "YEAR": 2010,
+    "VALUE": 32598
+  },
+  {
+    "COUNTRY": "SRB",
+    "YEAR": 2011,
+    "VALUE": 32596
+  },
+  {
+    "COUNTRY": "SRB",
+    "YEAR": 2012,
+    "VALUE": 32454
+  },
+  {
+    "COUNTRY": "SRB",
+    "YEAR": 2013,
+    "VALUE": 32473
+  },
+  {
+    "COUNTRY": "SRB",
+    "YEAR": 2014,
+    "VALUE": 32539
+  },
+  {
+    "COUNTRY": "SVK",
+    "YEAR": 1996,
+    "VALUE": 37287
+  },
+  {
+    "COUNTRY": "SVK",
+    "YEAR": 1997,
+    "VALUE": 36386
+  },
+  {
+    "COUNTRY": "SVK",
+    "YEAR": 1998,
+    "VALUE": 35681
+  },
+  {
+    "COUNTRY": "SVK",
+    "YEAR": 1999,
+    "VALUE": 35491
+  },
+  {
+    "COUNTRY": "SVK",
+    "YEAR": 2000,
+    "VALUE": 34510
+  },
+  {
+    "COUNTRY": "SVK",
+    "YEAR": 2001,
+    "VALUE": 33244
+  },
+  {
+    "COUNTRY": "SVK",
+    "YEAR": 2002,
+    "VALUE": 32829
+  },
+  {
+    "COUNTRY": "SVK",
+    "YEAR": 2003,
+    "VALUE": 31174
+  },
+  {
+    "COUNTRY": "SVK",
+    "YEAR": 2004,
+    "VALUE": 29685
+  },
+  {
+    "COUNTRY": "SVK",
+    "YEAR": 2005,
+    "VALUE": 30484
+  },
+  {
+    "COUNTRY": "SVK",
+    "YEAR": 2006,
+    "VALUE": 29800
+  },
+  {
+    "COUNTRY": "SVK",
+    "YEAR": 2007,
+    "VALUE": 30096
+  },
+  {
+    "COUNTRY": "SVK",
+    "YEAR": 2008,
+    "VALUE": 29818
+  },
+  {
+    "COUNTRY": "SVK",
+    "YEAR": 2009,
+    "VALUE": 29426
+  },
+  {
+    "COUNTRY": "SVK",
+    "YEAR": 2010,
+    "VALUE": 29136
+  },
+  {
+    "COUNTRY": "SVK",
+    "YEAR": 2011,
+    "VALUE": 27709
+  },
+  {
+    "COUNTRY": "SVK",
+    "YEAR": 2012,
+    "VALUE": 27178
+  },
+  {
+    "COUNTRY": "SVK",
+    "YEAR": 2013,
+    "VALUE": 26613
+  },
+  {
+    "COUNTRY": "SVK",
+    "YEAR": 2014,
+    "VALUE": 26642
+  },
+  {
+    "COUNTRY": "SVN",
+    "YEAR": 1980,
+    "VALUE": 10997
+  },
+  {
+    "COUNTRY": "SVN",
+    "YEAR": 1985,
+    "VALUE": 10513
+  },
+  {
+    "COUNTRY": "SVN",
+    "YEAR": 1986,
+    "VALUE": 10462
+  },
+  {
+    "COUNTRY": "SVN",
+    "YEAR": 1987,
+    "VALUE": 10411
+  },
+  {
+    "COUNTRY": "SVN",
+    "YEAR": 1988,
+    "VALUE": 10271
+  },
+  {
+    "COUNTRY": "SVN",
+    "YEAR": 1989,
+    "VALUE": 10122
+  },
+  {
+    "COUNTRY": "SVN",
+    "YEAR": 1990,
+    "VALUE": 10098
+  },
+  {
+    "COUNTRY": "SVN",
+    "YEAR": 1991,
+    "VALUE": 10037
+  },
+  {
+    "COUNTRY": "SVN",
+    "YEAR": 1992,
+    "VALUE": 9860
+  },
+  {
+    "COUNTRY": "SVN",
+    "YEAR": 1993,
+    "VALUE": 9581
+  },
+  {
+    "COUNTRY": "SVN",
+    "YEAR": 1994,
+    "VALUE": 9534
+  },
+  {
+    "COUNTRY": "SVN",
+    "YEAR": 1995,
+    "VALUE": 9457
+  },
+  {
+    "COUNTRY": "SVN",
+    "YEAR": 1996,
+    "VALUE": 9317
+  },
+  {
+    "COUNTRY": "SVN",
+    "YEAR": 1997,
+    "VALUE": 9290
+  },
+  {
+    "COUNTRY": "SVN",
+    "YEAR": 1998,
+    "VALUE": 9162
+  },
+  {
+    "COUNTRY": "SVN",
+    "YEAR": 1999,
+    "VALUE": 9070
+  },
+  {
+    "COUNTRY": "SVN",
+    "YEAR": 2000,
+    "VALUE": 10393
+  },
+  {
+    "COUNTRY": "SVN",
+    "YEAR": 2001,
+    "VALUE": 9934
+  },
+  {
+    "COUNTRY": "SVN",
+    "YEAR": 2002,
+    "VALUE": 9745
+  },
+  {
+    "COUNTRY": "SVN",
+    "YEAR": 2003,
+    "VALUE": 9478
+  },
+  {
+    "COUNTRY": "SVN",
+    "YEAR": 2004,
+    "VALUE": 9160
+  },
+  {
+    "COUNTRY": "SVN",
+    "YEAR": 2005,
+    "VALUE": 9226
+  },
+  {
+    "COUNTRY": "SVN",
+    "YEAR": 2006,
+    "VALUE": 9131
+  },
+  {
+    "COUNTRY": "SVN",
+    "YEAR": 2007,
+    "VALUE": 8977
+  },
+  {
+    "COUNTRY": "SVN",
+    "YEAR": 2008,
+    "VALUE": 9145
+  },
+  {
+    "COUNTRY": "SVN",
+    "YEAR": 2009,
+    "VALUE": 8915
+  },
+  {
+    "COUNTRY": "SVN",
+    "YEAR": 2010,
+    "VALUE": 8878
+  },
+  {
+    "COUNTRY": "SVN",
+    "YEAR": 2011,
+    "VALUE": 8919
+  },
+  {
+    "COUNTRY": "SVN",
+    "YEAR": 2012,
+    "VALUE": 8811
+  },
+  {
+    "COUNTRY": "SVN",
+    "YEAR": 2013,
+    "VALUE": 8759
+  },
+  {
+    "COUNTRY": "SVN",
+    "YEAR": 2014,
+    "VALUE": 8740
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 1973,
+    "VALUE": 78401
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 1974,
+    "VALUE": 77389
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 1975,
+    "VALUE": 76161
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 1976,
+    "VALUE": 75060
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 1977,
+    "VALUE": 73984
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 1978,
+    "VALUE": 73124
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 1979,
+    "VALUE": 70591
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 1980,
+    "VALUE": 69247
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 1981,
+    "VALUE": 67537
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 1982,
+    "VALUE": 65527
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 1983,
+    "VALUE": 64764
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 1984,
+    "VALUE": 63419
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 1985,
+    "VALUE": 59595
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 1986,
+    "VALUE": 56922
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 1987,
+    "VALUE": 54763
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 1988,
+    "VALUE": 53167
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 1989,
+    "VALUE": 51755
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 1990,
+    "VALUE": 49936
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 1991,
+    "VALUE": 46903
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 1992,
+    "VALUE": 43583
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 1993,
+    "VALUE": 40524
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 1994,
+    "VALUE": 37968
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 1995,
+    "VALUE": 35220
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 1996,
+    "VALUE": 32249
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 1997,
+    "VALUE": 30068
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 1998,
+    "VALUE": 28623
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 1999,
+    "VALUE": 28271
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 2000,
+    "VALUE": 27531
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 2001,
+    "VALUE": 26075
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 2002,
+    "VALUE": 25228
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 2003,
+    "VALUE": 24591
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 2004,
+    "VALUE": 24529
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 2005,
+    "VALUE": 24061
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 2006,
+    "VALUE": 23729
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 2007,
+    "VALUE": 23782
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 2008,
+    "VALUE": 23515
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 2009,
+    "VALUE": 23393
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 2010,
+    "VALUE": 23404
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 2011,
+    "VALUE": 23444
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 2012,
+    "VALUE": 22988
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 2013,
+    "VALUE": 23016
+  },
+  {
+    "COUNTRY": "SWE",
+    "YEAR": 2014,
+    "VALUE": 22754
+  },
+  {
+    "COUNTRY": "TJK",
+    "YEAR": 1980,
+    "VALUE": 32150
+  },
+  {
+    "COUNTRY": "TJK",
+    "YEAR": 1985,
+    "VALUE": 40830
+  },
+  {
+    "COUNTRY": "TJK",
+    "YEAR": 1986,
+    "VALUE": 42150
+  },
+  {
+    "COUNTRY": "TJK",
+    "YEAR": 1987,
+    "VALUE": 43953
+  },
+  {
+    "COUNTRY": "TJK",
+    "YEAR": 1988,
+    "VALUE": 45561
+  },
+  {
+    "COUNTRY": "TJK",
+    "YEAR": 1989,
+    "VALUE": 47415
+  },
+  {
+    "COUNTRY": "TJK",
+    "YEAR": 1990,
+    "VALUE": 48895
+  },
+  {
+    "COUNTRY": "TJK",
+    "YEAR": 1991,
+    "VALUE": 52011
+  },
+  {
+    "COUNTRY": "TJK",
+    "YEAR": 1992,
+    "VALUE": 54508
+  },
+  {
+    "COUNTRY": "TJK",
+    "YEAR": 1993,
+    "VALUE": 52577
+  },
+  {
+    "COUNTRY": "TJK",
+    "YEAR": 1994,
+    "VALUE": 45228
+  },
+  {
+    "COUNTRY": "TJK",
+    "YEAR": 1995,
+    "VALUE": 42303
+  },
+  {
+    "COUNTRY": "TJK",
+    "YEAR": 1996,
+    "VALUE": 40854
+  },
+  {
+    "COUNTRY": "TJK",
+    "YEAR": 1997,
+    "VALUE": 39983
+  },
+  {
+    "COUNTRY": "TJK",
+    "YEAR": 1998,
+    "VALUE": 37900
+  },
+  {
+    "COUNTRY": "TJK",
+    "YEAR": 1999,
+    "VALUE": 37278
+  },
+  {
+    "COUNTRY": "TJK",
+    "YEAR": 2000,
+    "VALUE": 36553
+  },
+  {
+    "COUNTRY": "TJK",
+    "YEAR": 2001,
+    "VALUE": 36442
+  },
+  {
+    "COUNTRY": "TJK",
+    "YEAR": 2002,
+    "VALUE": 36483
+  },
+  {
+    "COUNTRY": "TJK",
+    "YEAR": 2003,
+    "VALUE": 36433
+  },
+  {
+    "COUNTRY": "TJK",
+    "YEAR": 2004,
+    "VALUE": 36365
+  },
+  {
+    "COUNTRY": "TJK",
+    "YEAR": 2005,
+    "VALUE": 36317
+  },
+  {
+    "COUNTRY": "TJK",
+    "YEAR": 2006,
+    "VALUE": 36049
+  },
+  {
+    "COUNTRY": "TJK",
+    "YEAR": 2007,
+    "VALUE": 34645
+  },
+  {
+    "COUNTRY": "TJK",
+    "YEAR": 2008,
+    "VALUE": 34452
+  },
+  {
+    "COUNTRY": "TJK",
+    "YEAR": 2009,
+    "VALUE": 34470
+  },
+  {
+    "COUNTRY": "TJK",
+    "YEAR": 2010,
+    "VALUE": 34616
+  },
+  {
+    "COUNTRY": "TJK",
+    "YEAR": 2011,
+    "VALUE": 34695
+  },
+  {
+    "COUNTRY": "TJK",
+    "YEAR": 2012,
+    "VALUE": 34757
+  },
+  {
+    "COUNTRY": "TJK",
+    "YEAR": 2013,
+    "VALUE": 35227
+  },
+  {
+    "COUNTRY": "TJK",
+    "YEAR": 2014,
+    "VALUE": 35269
+  },
+  {
+    "COUNTRY": "TKM",
+    "YEAR": 1980,
+    "VALUE": 24435
+  },
+  {
+    "COUNTRY": "TKM",
+    "YEAR": 1985,
+    "VALUE": 27500
+  },
+  {
+    "COUNTRY": "TKM",
+    "YEAR": 1986,
+    "VALUE": 29770
+  },
+  {
+    "COUNTRY": "TKM",
+    "YEAR": 1987,
+    "VALUE": 30645
+  },
+  {
+    "COUNTRY": "TKM",
+    "YEAR": 1988,
+    "VALUE": 31660
+  },
+  {
+    "COUNTRY": "TKM",
+    "YEAR": 1989,
+    "VALUE": 32825
+  },
+  {
+    "COUNTRY": "TKM",
+    "YEAR": 1990,
+    "VALUE": 34780
+  },
+  {
+    "COUNTRY": "TKM",
+    "YEAR": 1991,
+    "VALUE": 36040
+  },
+  {
+    "COUNTRY": "TKM",
+    "YEAR": 1992,
+    "VALUE": 36660
+  },
+  {
+    "COUNTRY": "TKM",
+    "YEAR": 1993,
+    "VALUE": 38860
+  },
+  {
+    "COUNTRY": "TKM",
+    "YEAR": 1994,
+    "VALUE": 39160
+  },
+  {
+    "COUNTRY": "TKM",
+    "YEAR": 1995,
+    "VALUE": 36830
+  },
+  {
+    "COUNTRY": "TKM",
+    "YEAR": 1996,
+    "VALUE": 28798
+  },
+  {
+    "COUNTRY": "TKM",
+    "YEAR": 1997,
+    "VALUE": 25205
+  },
+  {
+    "COUNTRY": "TKM",
+    "YEAR": 1998,
+    "VALUE": 20543
+  },
+  {
+    "COUNTRY": "TKM",
+    "YEAR": 1999,
+    "VALUE": 20318
+  },
+  {
+    "COUNTRY": "TKM",
+    "YEAR": 2000,
+    "VALUE": 18559
+  },
+  {
+    "COUNTRY": "TKM",
+    "YEAR": 2001,
+    "VALUE": 19563
+  },
+  {
+    "COUNTRY": "TKM",
+    "YEAR": 2002,
+    "VALUE": 19496
+  },
+  {
+    "COUNTRY": "TKM",
+    "YEAR": 2003,
+    "VALUE": 19387
+  },
+  {
+    "COUNTRY": "TKM",
+    "YEAR": 2004,
+    "VALUE": 19120
+  },
+  {
+    "COUNTRY": "TKM",
+    "YEAR": 2005,
+    "VALUE": 16084
+  },
+  {
+    "COUNTRY": "TKM",
+    "YEAR": 2006,
+    "VALUE": 16073
+  },
+  {
+    "COUNTRY": "TKM",
+    "YEAR": 2007,
+    "VALUE": 15088
+  },
+  {
+    "COUNTRY": "TKM",
+    "YEAR": 2008,
+    "VALUE": 15228
+  },
+  {
+    "COUNTRY": "TKM",
+    "YEAR": 2009,
+    "VALUE": 15479
+  },
+  {
+    "COUNTRY": "TKM",
+    "YEAR": 2010,
+    "VALUE": 15508
+  },
+  {
+    "COUNTRY": "TKM",
+    "YEAR": 2011,
+    "VALUE": 15588
+  },
+  {
+    "COUNTRY": "TKM",
+    "YEAR": 2012,
+    "VALUE": 15412
+  },
+  {
+    "COUNTRY": "TKM",
+    "YEAR": 2013,
+    "VALUE": 15498
+  },
+  {
+    "COUNTRY": "TKM",
+    "YEAR": 2014,
+    "VALUE": 16261
+  },
+  {
+    "COUNTRY": "TUR",
+    "YEAR": 2000,
+    "VALUE": 129983
+  },
+  {
+    "COUNTRY": "TUR",
+    "YEAR": 2001,
+    "VALUE": 134971
+  },
+  {
+    "COUNTRY": "TUR",
+    "YEAR": 2002,
+    "VALUE": 142381
+  },
+  {
+    "COUNTRY": "TUR",
+    "YEAR": 2003,
+    "VALUE": 143741
+  },
+  {
+    "COUNTRY": "TUR",
+    "YEAR": 2004,
+    "VALUE": 145278
+  },
+  {
+    "COUNTRY": "TUR",
+    "YEAR": 2005,
+    "VALUE": 149395
+  },
+  {
+    "COUNTRY": "TUR",
+    "YEAR": 2006,
+    "VALUE": 152357
+  },
+  {
+    "COUNTRY": "TUR",
+    "YEAR": 2007,
+    "VALUE": 156889
+  },
+  {
+    "COUNTRY": "TUR",
+    "YEAR": 2008,
+    "VALUE": 161264
+  },
+  {
+    "COUNTRY": "TUR",
+    "YEAR": 2009,
+    "VALUE": 166336
+  },
+  {
+    "COUNTRY": "TUR",
+    "YEAR": 2010,
+    "VALUE": 177911
+  },
+  {
+    "COUNTRY": "TUR",
+    "YEAR": 2011,
+    "VALUE": 181732
+  },
+  {
+    "COUNTRY": "TUR",
+    "YEAR": 2012,
+    "VALUE": 193670
+  },
+  {
+    "COUNTRY": "TUR",
+    "YEAR": 2013,
+    "VALUE": 195561
+  },
+  {
+    "COUNTRY": "TUR",
+    "YEAR": 2014,
+    "VALUE": 200628
+  },
+  {
+    "COUNTRY": "UKR",
+    "YEAR": 1980,
+    "VALUE": 500919
+  },
+  {
+    "COUNTRY": "UKR",
+    "YEAR": 1981,
+    "VALUE": 495875
+  },
+  {
+    "COUNTRY": "UKR",
+    "YEAR": 1982,
+    "VALUE": 502505
+  },
+  {
+    "COUNTRY": "UKR",
+    "YEAR": 1983,
+    "VALUE": 508730
+  },
+  {
+    "COUNTRY": "UKR",
+    "YEAR": 1984,
+    "VALUE": 515230
+  },
+  {
+    "COUNTRY": "UKR",
+    "YEAR": 1985,
+    "VALUE": 520940
+  },
+  {
+    "COUNTRY": "UKR",
+    "YEAR": 1986,
+    "VALUE": 525734
+  },
+  {
+    "COUNTRY": "UKR",
+    "YEAR": 1987,
+    "VALUE": 531239
+  },
+  {
+    "COUNTRY": "UKR",
+    "YEAR": 1988,
+    "VALUE": 538364
+  },
+  {
+    "COUNTRY": "UKR",
+    "YEAR": 1989,
+    "VALUE": 544529
+  },
+  {
+    "COUNTRY": "UKR",
+    "YEAR": 1990,
+    "VALUE": 548264
+  },
+  {
+    "COUNTRY": "UKR",
+    "YEAR": 1991,
+    "VALUE": 551470
+  },
+  {
+    "COUNTRY": "UKR",
+    "YEAR": 1992,
+    "VALUE": 546168
+  },
+  {
+    "COUNTRY": "UKR",
+    "YEAR": 1993,
+    "VALUE": 536517
+  },
+  {
+    "COUNTRY": "UKR",
+    "YEAR": 1994,
+    "VALUE": 527673
+  },
+  {
+    "COUNTRY": "UKR",
+    "YEAR": 1995,
+    "VALUE": 505257
+  },
+  {
+    "COUNTRY": "UKR",
+    "YEAR": 1996,
+    "VALUE": 456558
+  },
+  {
+    "COUNTRY": "UKR",
+    "YEAR": 1997,
+    "VALUE": 389819
+  },
+  {
+    "COUNTRY": "UKR",
+    "YEAR": 1998,
+    "VALUE": 380974
+  },
+  {
+    "COUNTRY": "UKR",
+    "YEAR": 1999,
+    "VALUE": 362847
+  },
+  {
+    "COUNTRY": "UKR",
+    "YEAR": 2000,
+    "VALUE": 351518
+  },
+  {
+    "COUNTRY": "UKR",
+    "YEAR": 2001,
+    "VALUE": 345553
+  },
+  {
+    "COUNTRY": "UKR",
+    "YEAR": 2002,
+    "VALUE": 343052
+  },
+  {
+    "COUNTRY": "UKR",
+    "YEAR": 2003,
+    "VALUE": 337511
+  },
+  {
+    "COUNTRY": "UKR",
+    "YEAR": 2004,
+    "VALUE": 332206
+  },
+  {
+    "COUNTRY": "UKR",
+    "YEAR": 2005,
+    "VALUE": 328460
+  },
+  {
+    "COUNTRY": "UKR",
+    "YEAR": 2006,
+    "VALUE": 327978
+  },
+  {
+    "COUNTRY": "UKR",
+    "YEAR": 2007,
+    "VALUE": 325495
+  },
+  {
+    "COUNTRY": "UKR",
+    "YEAR": 2008,
+    "VALUE": 324775
+  },
+  {
+    "COUNTRY": "UKR",
+    "YEAR": 2009,
+    "VALUE": 342703
+  },
+  {
+    "COUNTRY": "UKR",
+    "YEAR": 2010,
+    "VALUE": 347720
+  },
+  {
+    "COUNTRY": "UKR",
+    "YEAR": 2011,
+    "VALUE": 334183
+  },
+  {
+    "COUNTRY": "UKR",
+    "YEAR": 2012,
+    "VALUE": 327432
+  },
+  {
+    "COUNTRY": "UKR",
+    "YEAR": 2013,
+    "VALUE": 323692
+  },
+  {
+    "COUNTRY": "UKR",
+    "YEAR": 2014,
+    "VALUE": 276004
+  },
+  {
+    "COUNTRY": "UZB",
+    "YEAR": 2000,
+    "VALUE": 109687
+  },
+  {
+    "COUNTRY": "UZB",
+    "YEAR": 2001,
+    "VALUE": 111645
+  },
+  {
+    "COUNTRY": "UZB",
+    "YEAR": 2002,
+    "VALUE": 117464
+  },
+  {
+    "COUNTRY": "UZB",
+    "YEAR": 2003,
+    "VALUE": 117052
+  },
+  {
+    "COUNTRY": "UZB",
+    "YEAR": 2004,
+    "VALUE": 113751
+  },
+  {
+    "COUNTRY": "UZB",
+    "YEAR": 2005,
+    "VALUE": 113212
+  },
+  {
+    "COUNTRY": "UZB",
+    "YEAR": 2006,
+    "VALUE": 113143
+  },
+  {
+    "COUNTRY": "UZB",
+    "YEAR": 2007,
+    "VALUE": 107955
+  },
+  {
+    "COUNTRY": "UZB",
+    "YEAR": 2008,
+    "VALUE": 106135
+  },
+  {
+    "COUNTRY": "UZB",
+    "YEAR": 2009,
+    "VALUE": 105892
+  },
+  {
+    "COUNTRY": "UZB",
+    "YEAR": 2010,
+    "VALUE": 105710
+  },
+  {
+    "COUNTRY": "UZB",
+    "YEAR": 2011,
+    "VALUE": 105485
+  },
+  {
+    "COUNTRY": "UZB",
+    "YEAR": 2012,
+    "VALUE": 103809
+  },
+  {
+    "COUNTRY": "UZB",
+    "YEAR": 2013,
+    "VALUE": 100904
+  },
+  {
+    "COUNTRY": "UZB",
+    "YEAR": 2014,
+    "VALUE": 98390
+  }
+]

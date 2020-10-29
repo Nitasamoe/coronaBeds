@@ -1,0 +1,122 @@
+[
+    {
+      "COUNTRY": "AUT",
+      "VALUE": 21.8
+    },
+    {
+      "COUNTRY": "BEL",
+      "VALUE": 15.9
+    },
+    {
+      "COUNTRY": "BGR",
+      "VALUE": 12.2
+    },
+    {
+      "COUNTRY": "HRV",
+      "VALUE": 14.7
+    },
+    {
+      "COUNTRY": "CYP",
+      "VALUE": 11.4
+    },
+    {
+      "COUNTRY": "CZE",
+      "VALUE": 11.6
+    },
+    {
+      "COUNTRY": "DNK",
+      "VALUE": 6.7
+    },
+    {
+      "COUNTRY": "EST",
+      "VALUE": 14.6
+    },
+    {
+      "COUNTRY": "FIN",
+      "VALUE": 6.1
+    },
+    {
+      "COUNTRY": "FRA",
+      "VALUE": 11.6
+    },
+    {
+      "COUNTRY": "DEU",
+      "VALUE": 29.2
+    },
+    {
+      "COUNTRY": "GRC",
+      "VALUE": 6
+    },
+    {
+      "COUNTRY": "HUN",
+      "VALUE": 13.8
+    },
+    {
+      "COUNTRY": "ISL",
+      "VALUE": 9.1
+    },
+    {
+      "COUNTRY": "IRL",
+      "VALUE": 6.5
+    },
+    {
+      "COUNTRY": "ITA",
+      "VALUE": 12.5
+    },
+    {
+      "COUNTRY": "LVA",
+      "VALUE": 9.7
+    },
+    {
+      "COUNTRY": "LIT",
+      "VALUE": 15.5
+    },
+    {
+      "COUNTRY": "LUX",
+      "VALUE": 24.8
+    },
+    {
+      "COUNTRY": "NLD",
+      "VALUE": 6.4
+    },
+    {
+      "COUNTRY": "NOR",
+      "VALUE": 8
+    },
+    {
+      "COUNTRY": "POL",
+      "VALUE": 6.9
+    },
+    {
+      "COUNTRY": "PRT",
+      "VALUE": 4.2
+    },
+    {
+      "COUNTRY": "ROU",
+      "VALUE": 21.4
+    },
+    {
+      "COUNTRY": "SVK",
+      "VALUE": 9.2
+    },
+    {
+      "COUNTRY": "SVN",
+      "VALUE": 6.4 
+    },
+    {
+      "COUNTRY": "ESP",
+      "VALUE": 9.7
+    },
+    {
+      "COUNTRY": "SWE",
+      "VALUE": 5.8
+    },
+    {
+      "COUNTRY": "CHE",
+      "VALUE": 11
+    },
+    {
+      "COUNTRY": "GBR",
+      "VALUE": 6.2
+    }
+  ]
